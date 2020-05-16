@@ -3,7 +3,104 @@
 Visible Speech (1867) [ to Edison’s Sneeze (1894)]
 
 Engineering Language: Teaching Machines to Read and Write in the US and Britain (1826 – 1976)
- 
+
+If you scratch the surface of the histories of computing's alphabetic language and literature are everywhere to be found as a comparative literature major this was news to me I hope to share it with you it Is a complex and fascinating story involving the history of media and education.
+
+Standardization, Organization, Storage and recording, Communication shorthand is the time-saving device that optimizes certain aspects of written scripts; shorthand seeks to remove rhetoric from writing systems; it is a system of representation documentation and communication separate from spoken verbal language in a manner distinct from alphabetic Systems of representation documentation and communication.
+
+Computational machines emerge from the meeting of alphabetic and numeric sign systems
+
+Shorthand is a writing system optimized for recording and storage and communication.
+
+Natural language written language Machine language
+
+In the west we share a common notational system for recording verbal concepts in different scripts which we refer to as languages
+
+A scripting language in computer science has a particular definition
+
+How do you remove ambiguity from communication?
+
+Resources money Digital asset
+
+Communicating at the speed of light. It is “nothing more” than electricity that allows us to enter a different frame of reference. Physics, you could say, though that is a vast subject.  What I'm talking about when I say physics is the experience of the world as elemental entities. Let's dispose of biological limitation and enter a world particles parentheses particulate matter) let's change the frame of reference for time and space let's use our disembodied cents representation to participate in a nonhuman experience of the universe you can be an ant or an ounce or a squirrel a chicken or a virus or at least see the world from the perspective of these agents assuming vision is the calculation of reference points are you need to do is change the spatial perspective and the data input  processing of this cents data remains the sticking point since we still know so little about how human and nonhuman brains work for now we can only use the little we know about the operations of the human brain as a model for synthesizing experiential data  this will soon change the question now is whether even understanding the world from the perspective of a virus a virus we will ever really be able to escape our own frame of reference and understanding as an equation that seems simple in reality our imagination no matter how vast is always informed by our own point of view as a result if we consider the language of aliens or how ask of communication are defined we have only our understanding of how language and communication and understanding operate and function should we doesn't dedicate more time and resources to understanding how these things operate and function for humans or should we move on to attempts to objectively model these processes for a nonhuman perspective we assume that numbers are nonhuman but that in itself is a big assumption given the fact that numbers were invented by humans how do you come to terms with the fact that there is no objectivity ease of you seeing or understanding things from a nonhuman perspective every perspective or frame of reference available to humans is modeled on human models objectivity is nothing more than out of translation one representational fund system to another some sign systems appear to be more objective because of their characteristics but they are not actually objective they nearly appear to be objective in a comparative context with other representational phone systems if I walk through the world like a virus well I understand its desires do bye-bye have desires this category of experience being a uniquely human one we like to blame verbal language for ambiguity but there are other issues at play mostly our inability to ever stop being human we have yet to figure out a way to remove a human consciousness from an experiential context and the information used to make sense of that context
+
+The Virii
+
+For a long time I lived in the pre-Newtonian universe I'm embarrassed to say this having been born in the later part of 20th Century
+
+We are told over and over again how important reading and writing are in the operations of digital computing machines and networks.  And yet these two terms reading and writing from a highly ambiguous.  From the perspective of information and communications history a technical definition has been assigned to each.  Writing is the inscription of a message in a particular code in some type of transmissible media. It is an encoding of this message it is a decoding of the encoded message. As far as machines go this is a satisfactory definition. As coding and decoding machines this is also a satisfactory message however humans are not machine. They can be represented as such in their operations and metaphorically pretrade as with mechanical systems. But such descriptions and conceptions will always only represent the part of the working of the human. As biological and social animals humans have ways of reacting to an understanding the world that are not encompassed by the operations of even a highly intelligent machine.
+
+Since at least the 17th century and possibly earlier there have been attempts to represent and understand reality in purely rational terms from the perspective of mind of man it self perceived to be incident using the tools designed by man to enable and facilitate this process. For reasons related to what we now call socio-cultural, economic, The all too glaring circularity of such reasoning I E that would man made tools a potentially infinite man-made world is possible were not questioned.  And, as long as there were sufficient natural resources to support a non-self-sustaining technological system there was not a mandate to do so. Questions were raised, but the underlying assumptions the progress of technologies were not themselves subject to debate. That was always more. There was always and elsewhere to explore and exploit. Today, That elsewhere is generally non-earth based since the resources of this planet have then is not yet depleted certainly documented and owned. It is time to subject this model to questions that's have for too long seemed Post potable, exportable, Or simply difficult, Uncomfortable and potentially disruptive to the lives that many in the west has come to take for granted.
+
+This book is a plea for humans to consider what it means to human in a world without infinite resources. Further it is a plea for humans to consider machines  as human built tools with great capabilities and not as potentially magical solutions.  Humans use their language to expand the capabilities of machines compressors and use machine languages derived from human language to accelerate the advancement of select attributes and capabilities of humans in the interest of the survival of the species based on only a limited understanding of the species and based on the assumption that dominance of every other species defined survival. What is natural intelligence?
+
+Digital computers and their applications have meant has many functions in the 21st-century and heading to find an discussed in many different ways let all technology they create change in the society in which they are adopted. However I want to consider digital computers and their applications from a more limited perspective as reading and writing machines. This perspective will for some encompass the basic operations of digital computers and for others will be seen to cover only a small part. That is fine with me. I am aware anyways computers Will have been and will be very much like an elephant, Too large and diverse to clearly represent in their totality. I don't want to find agreement regarding the ultimate answer of what computers are. However I do want to find some consensus regarding how we talk about certain attributes of these machines  which are regularly represented as having a superhuman And practically godlike powers.
+
+First and foremost they are superhuman. They were designed and built to be that way. From the viewpoint of what computers can do, they are remarkable and will outpace any human asked calculation. But just as I can expect that my cat will be in the race upstairs, I also know that a computer can complete certain tasks faster than I ever could. The question the remains; why do we continue to be surprised by this and to celebrate it as if it is some kind of threat to humanity or event worthy of celebration& Of our pending demise? Haven't we already sufficiently celebrated the remarkable list of this speed and capacity? At what point do we stop being amazed? Perhaps never. Perhaps the cycle of amazement are just part of what it is to be human. Nevertheless, I hope that some of what I will talk about today may make you pause before attributing Godlike or magical attributes to digital community pick computing devices and their application. Four they are after all human made. Well this is the basic structure of a digital computer this model shows only the hardware. The software is what instructs the system and its operation and believe it or not those instructions are given in a manner that is in many ways identical to instructions given to a human who is seeking to operate something and learn something. The instructions are related and then store and then enacted. Hello are humans and computers differ with respect to two primary issues one memory and two language. Computers do not forget the computers also do not speak natural languages they don't actually speak at all however they do respond to instructions. They turned on and they turn off. When they are on we can ask them to do things and they can tell us how they are progressing with those tasks. So much money time and brain power and resources and labor has been dedicated to these machines that they can do quite a number of things, They can turn other devices on and off, they can't even remember things for us and remind us every microsecond these things need to be done. We have talked computers the rules of chess, The rules of flight scheduling, the rules of tax filing, and rules of blank. But it is we had hot computers these things. And it is the method and process of teaching that I want to focus on today. We have hot computers many skills all of which are based on the computer's ability to read and write instructions.
+
+How did the computer learn to read? How did the computer learn to write? Well these are complex questions with complex answers. But I think it is worth thinking through both questions and answers neither is singular or simple. How could they be? 1/  humans are more complex than digital computers; 2/ humans are in the process of making digital computers more complex; 3/ analogies that have been made between the operations of computers and humans may be self-fulfilling prophecies or feedback loops.  The complex operations of such metaphoricity need themselves to be considered, discussed, and funded at the same levels as defense-funded hardware and software initiatives; 4/ a simulation of a human is not a human even if it may appear to be.
+
+When Wiener talks about messages and communications facilities he is for the most part talking about Communication in printed English. What processes are involved in defining natural language as a computational problem? When does this occur? How does this occur? What is the sector? In his 1928 article Hartley formulates the quantity of information as a constant computation problem when he conceives of the equation H equals N log s
+
+The index for reading the stars
+
+You begin to think about all of those grade school and high school visits to planetariums differently once you understand that it is literally from reading the stars that many aspects and functions of the printed book are derived
+
+How do we think? In digits? In pictures? In actions? In words?
+
+It is difficult sometimes not to read Wittgenstein as a standup comic particularly when you come across lines such as the following: “is thinking of something like painting for shooting at something” but when you eventually place this question in a particular philosophical context and it not only loses all of his humor but also makes sense. For a replacement Wittgenstein 's question in the context of ongoing philosophical debates about the media of thought and its implications it becomes clear that what Wittgenstein is asking with this at first rather odd question is : is thinking a representation or is it an action? These are of course not the only two possibilities. But for now I just need to congratulate myself for finding a context in which I can even understand why the hell Wittgenstein poses questions in the first place.
+
+Say it with flowers: telegraphy, cryptography, And Francis Bacon
+
+Shakespeare's ciphers with the media event in the 19th century. The wind was its reach that one journalist asked what they would be to write about Mrs. ____.  But her work and fame kind themselves be interpreted as ciphers for a cultural phenomena forming at that time the meeting of science and middle of military intelligence. That's the most recognizable trace of Mrs. cultural moment for denizens of the late 20th century would be FTD is both of somewhat perverse and telling. Francis Bacon himself had written at the possibility Of anything signifying anything but at that time he was not referring to the cultural significance of [My much worse] white roses . His subject was that much more serious and had to do with the order of reason in the world. In his Organon, Entitled after Aristotle's work of the same name, Bacon proposes that its scientific method having to do with measurement and observation and percolation are the constituents of reason and logic. And perhaps more importantly they assume this position as a authority in the place of language which hi since the pre-Socratic's or conduit for logos.
+
+You will be excused from have a thought for a long time that thought fully occurs in verbal language. Since this was of course the theory propagated by Aristotle's influence on the arts and sciences was and until can use to be substantial.  
+
+A book Made of screenshots of writing made with the web-based version of Ted Nelson's Jott.  
+
+What is an engineers view of the writing process?
+
+Did Bacon know Napier?  Had he read the Canonis Logarithms?
+Did they can donate here? Has he read the tenderness love arrhythmias
+
+February, 25, 2020
+
+If you compare models of the writing subject with models of a basic computing machine you are struck by their similarities.  Both are comprised of a processing unit short and long-term memory,input and output devices.  To explain why this is the case is to show that at the heart computer history are notions about writing and education.
+
+Disability, deficiency, and the creation of a need for technical solutions.  
+
+Why did no one ever teach us about the importance of literature and history of computational machines and yet when one thinks about literature and computational machines under the general heading of public literacy the connection seem obvious so often are we told that the science and humanities have nothing to do with each other that it is easy for one to simply believe this to be the case.  There are math people Andover bull people [and there are verbal people].  But you scratch the surface of the histories of computatings and traces of literature literary criticism are everywhere: in Babbage's daydreams, in Markov's analysis of statistical structures, in Shannons mathematical model of communication, in [wise bombs] Weizenbaum’s language bot, even in Turing’s cryptographic codes. How could there not be?  Literature was a part of each man's education.  Further if one takes an historical and cultural view of literacy history how could the history of print not be imprinted in the computer just as it is in the history of literature? Is there any part of the digital computer that is not derived in some way from print technologies?  Printed circuits use lithographic technologies developed in the 1830s and 1910s for printing first posters and later sheet music and later still player piano rolls. Input output processor memory rating systems are codes software is instruction hardware is the mechanism to talk to a machine you must give instructions in the language it understands
+
+Here's my take on the brain mind dichotomy/relationship/problem: it is the difference between theory and biology. Descartes says I can go anywhere and all material as at my disposal I am more than material I am Internet and as a rational entity he is but he is not a rational entity he is of rational animal or more exactly a symbol making animal
+
+Good Baby some connection between a graphics symbol in the UNIX command line that was developed in the 1970s Adam Mark indicating the admission of human breath in the mid-19th century shorthand however impossible this connection may seem I believe that following a document trail through Bell Labs and early 20th Century print culture it maybe possible to show that in some sense what Richie was doing with that symbol was making a computer speak.  
+
+Here's what I know about shorthand. It is a the instrumental functions a verbal language can be studied. The alphabet is an invention. Alphabetic literacy is also an invention. Short been around since the Roman empire around the second century BC E and was based on an earlier Greek system.
+
+Why did we stop writing in Latin. Definitions of literacy are being expanded to include video games, cooking, and motions. Alphabetic literacy becomes just one of many types of literacy and although it maybe at one time defined asked what it means to be able to read and write this is also changing
+
+Computers offer a nonhuman timescale for writing. The computer is a writing environment based on a non-human timescale
+
+The world is becoming a spreadsheet.
+
+Logarithms
+
+Wallpaper
+
+Printing
+
+DNA
+
+You read me [eurythmy] 
+
+Language is in organism. (reference?????)
+
+Have you ever collected all of the pens in your house and assembled them in a single location. A kind of advertising. Disposable. Single use.
+
+
+Stanford CASBS Application 2017
+
+The draft table of contents for the project is still a work in progress.  However, to date, I envision the book being made up of an Introduction laying out the scope of and issues involved in the project, a chapter dedicated to Charles Babbage’s work on signs and mechanical languages, a chapter dedicated to Charles Morse’s work on short-hand and Morse code, a chapter dedicated to Herman Melville Bell’s work on Visible Speech, a chapter dedicated to Alexander Graham Bell’s extension of his father’s work on Visible Speech, and the legacy of Visible Speech into the 20th century, particularly in relation to the work of Charles Shannon.  The book’s title is, I hope, just one sign of how intriguing and multi-layered the material that I am researching and writing about is.  Having started researching the history of short-hand and machine languages in relation to writing instruction in the Nineteenth Century during my 2015-2016 sabbatical, I became interested in Herman Melville Bell’s work on Visible Speech, a “universal language” that he hoped to have adopted as a standard script worldwide.  Of particular interest to me was the fact that Melville Bell’s children were fluent in this language, which itself grows out of a model of the human speech organs as reproductive machines.  What this means is that Alexander Graham Bell was taught to read and write a proto-machine code as a child.  Did this experience influence his later development of the telephone?  It seems likely.  However, the import of that experience has received little scholarly attention, particularly in the disciplines of writing studies.  
 
 Project Background
 
@@ -11,6 +108,47 @@ Understanding the assumptions about writing and literacy embedded in HMB’s sho
 
 
 The various elements of HMB’s shorthand system are themselves remediated in its traces and afterlives in writing instruction pedagogy, stage and film adaptations, and specific tools and applications for digital computing systems.
+
+In the earliest printed systems of shorthand, we see the elements and ambitions of today’s machine languages.  A universal character (words and things), a world language that everyone can speak and read and that in its very design eliminates any ambiguity of signification and communication.  
+
+What was a system of ciphers becomes one about standardization and later about speed and accuracy. It shows how technologies evolve. An instrument used across time in different climates of representation shows how definitions and functions of verbal language are in relation to available media. Multimedia affordances.  
+“I begin with the idea that inventing new ways to write or new kinds of writing presupposes a model of what writing and reading are and can be.  In this way, shorthand alphabets, phonographs, typewriters, and other nineteenth-century innovations in the area of inscriptive practice are so many theories of language and textuality.  They are not THE theory of language held by all Americans at the time; they are not “our” theory of language.  Instead, they are modest, local, and often competitive embodiments of the way people wrote, read, and interacted over the perceived characteristics of writing and reading.” (Gitelman, 1990, 5).
+
+What I learned from Heim and Kirschenbaum and my own research into the history of word processors is that word processors are an engineer’s idea of how we should be writing.  
+
+What is at issue is conceptions, models, and definitions of “the” human being written collectively by a global network of machines and human operators, many of whom, are unaware of their roles and functions in relation to machines.
+
+Combining a post-colonial perspective on the functions of writing and national literatures with a historiography of composition and linguistics in the U.S., Rodgers shows that as the key functions of verbal communication were being transferred to machines, language education both shapes and informs this transfer of knowledge and in the process fossilizes its former purposes thus rendering them insignificant and purposeless.
+
+
+
+While we may not often think of something as ancient as the alphabet as an information and communications technology, it is one.  What is more, as far as technical standards go, the Roman alphabetic script has had a very long run.  Though challenged over the years by hundreds of alternate writing systems designed to improve our ability to materialize and communicate meaning in verbal language, the Roman alphabet, having been embedded in commercial, bureaucratic, educational and publishing systems since the fifteenth century, has remained the standard interface to literacy in the West.  However, as our ability to readily communicate across long distances with non-alphabetic signs, i.e., still and moving digital images, emojis, voice to text inscription tools, proliferates, the roles and functions of alphabetic literacy very definitions of this term literacy are changing.  While, for some, such changes are seen as potentially liberating, for others, there is concern that this age of multimedial literacies and  “secondary orality” may have unforeseen implications.  As we attempt to figure out what the numerous consequences of changes in our current medial environment are for the definitions and functions of literacy, it becomes all the more important to better understand the history of literacy initiatives in the U.S. and the ways in which these have been informed and intertwined with both social and material technologies. Questions regarding the ways in which multimedial communication is a remediation of alphabetic literacy as opposed to a completely new mode of communication and what it may mean for humans to no longer be alphabetically literate are just two of the many pressing ones that need to be addressed.
+
+Systems of shorthand, which are some of the oldest technologies of inscription for recording, reproducing, and storing verbal language offer a unique repository for better understanding the instrumental elements of verbal language and its adaptations in different medial environments, including the digital.  
+
+despite the explicitly stated importance of communication to the fields of cybernetics and infromation processing (Wiener), the field of media and writing studies continues to play catch up in its ability to adequately theorize and describe the roles and functions of inscribed verbal communication.  As the linguist Roy Harris pointed out in his book “Rethinking Writing,” although, in the field of mathematics, there has long been a distinction made between a notation, i.e., a figure, and a script, “there is no such simple and perspicuous statement available in the cases of language” (94).  
+
+
+
+Remediating is a project dedicated to defining and investigating the discrete elements of writing and to thinking about how the media we use in the creation, production, and distribution of writing relate to how writing happens and what writing may mean.  Functioning at once as a graphical, logical, and poetic sign system, verbal language, which is transmitted by writing in different media, has unique properties depending on the medium or media employed for its dissemination (Drucker).
+As one of the oldest information and communications technologies in the West, systems of shorthand, which have been in use since the Classical period, offer a unique lens through which to analyze the roles and functions of verbal language in relation to the social and material technologies shaping their definitions (characteristics), applications, and affordances.  
+
+I'm writing about systems of shorthand alphabets--one of the oldest information and communications technologies--to illustrate its impact on the history of composition programs, which is significant because some unique aspects of Bell's system continue to inform writing instruction and writing machines into the 20th c. such as writing instruction as a set of instructions, written communication as being separated from spoken communication, conceiving of the human body as an instrument in general and a writing instrument in particular, the afterlives of HMB's system in media, popular culture, and the public imagination. Visible Speech and shorthand in general is important to understanding the histories and presents of the college composition course in the U.S.  While there has been a lot written about the foundation of the Harvard Composition program, I am focusing on its pre-history in the 1860s and, specifically, showing how via Melville Bell's work, writing became an applied science at Harvard. In terms of the history of communications technologies and digital computers, this early definition of writing as an applied science is very interesting, especially in conjunction with the understanding that, shorthand itself grows out of an urge to standardize verbal language. The history of shorthand in the 17th c. can, I believe tell us something about the tensions that still exist.  the history of shorthand can be studied both diachronically, i.e., in specific periods, and synchronically, i.e., across time, to reveal things about the functional aspects of verbal language and its relationships to a wide range of print and digital information and communication technologies.  
+ 
+
+Shorthand has a long history in the West, and according to some of its many nineteenth century chroniclers, proponents and historians (most of whom usually wore all three hats at one time), its evolution can be seen as reflection of the progressive and ever evolving history of writing from its very origins to the present (Pitman, Gitelman).  From a twenty first century perspective, this very notion that shorthand could have some indexical relationship to the history of writing in its entirety is just one of the many intriguing threads that need to be investigated in relation to the history of shorthand systems. Having received comparatively little attention in relation to the history of composition programs in the U.S., systems of shorthand have, however, been the subject of increasing interest to literary scholars and media historians.  In her 2009 book, “Shakespeare in Shorthand: The Textual Mystery of King Lear,” Adele Davidson reconsiders the importance of John Willis’ system of shorthand to the recording and eventual printing of early editions of “King Lear” and in his 2017 article, “Stenography and Orality in Dickens,”    of one of the many intriguing things about systems of shorthand and their representations and promotions in the nineteenth century is The positing and active creation of such a grand historical narrative about the “progress” of language, human history, and technologies as encapsulated in the “history” of shorthand published primarily by Pitman’s press reveal more about the ambitions of Pitmanic shorthand itself as they do documentary history, though undoubtedly the latter is one trace.  Reading these 19th c. histories of shorthand against the artifcactual and documentary history of shorthand, it becomes possible to reveal the many social and material technologies at work in the 19th c. I continue to think that analyzing the roles and affordances of specific print technologies in the formation of different systems of “universal writing,” many of which are in the 19th c., retrospectively categorized as shorthand is useful  For, universal language systems and shorthand as one subset of it are both places where the “functional” aspects of writing as communicative media are to some extent isolated from the other functions of writing and, as a result, it is possible to study them both diachronically and synchronically to better understand the roles and interactions and influences of different social and material technologies of language and communication through their particular uses and applications, as well as their aspirations, at any given moment in time (cf: depictions and representations of shorthand in Classical times in the 15th, 16th, 17th, 18th, 19th, and 20th centuries).  
+
+The narratives constructed in the 19th c. about shorthand are themselves important inventions, particularly since they coincide almost exactly with the development of public literacy initiatives.  Shorthand and its histories can tell us some things about the histories of capitalism and the roles and functions scientific discourse (real and constructed) and the book in those histories.  HMB’s system of shorthand emerges quite late in this history, in the 1860s and, importantly, grows out of the business of shorthand established by Isaac and Benn Pitman in the 1840s.  [Self improvement, public literacy education, vocational training, and commercial publishing become intertwined in the mid-19th c.]  
+
+While no documentary evidence of Tironian Shorthand, the system created by Cicero’s slave and secretary Tiro in the 1st c. B.C. survive, we do have copies of this system or one based on it from medieval manuscripts.  Textual evidence points to the fact that Tironian shorthand was itself based on a Greek system of shorthand that dates to the time of Socrates.    
+
+The history of shorthand shows that overtime, what was a storage, organization, and encoding "technology" becomes one that is about standardization and efficient production.  Dividing the history of shorthand into three major periods: 1/ Classical; 2/ Manuscript; 3/ Print and each of those into more discrete segments, it is possible to trace the changes in shorthand over time to the development of specific technologies of reproduction and distribution in each period and the socio-cultural and economic systems associated with them, i.e., education, educational publishing, commercial book market.  While my focus is on the later part of the Print period, the long history of shorthand (and those writing systems that are retrospectively labeled as such) and its use in pre-Print communications systems offers fertile ground for further research into relationships amongst print based and manuscript cultures [movable type is invented in the 11th c. even if it is not in wide spread use in Europe until the 15th c.].  
+
+In the 16th and 17th centuries shorthand is strongly connected to lexicography and the organization of knowledge (Bright and Wilkins).  By the 18th c., shorthand is already being explored in commercial terms.  This continues into the 19th c., when government sponsored educational and communications initiatives in the UK (first the penny post, later in the century, the English Free School legislation) combined with new printing technologies (lithography, rotary and steam printing presses) result in the reforming of shorthand as one that is then about vocational education and self-improvement/betterment.  Once HMB gets involved with shorthand, Pitman has already established a booming business.  
+
+It is from Lisa Gitelman’s investigations into shorthand as one of several technologies of inscription that reflect and shape the “climate of representation” in the 19th c. U.S. where my interest in shorthand began.  Her analysis of shorthand and its relations to Edison’s development of the phonograph in her 1990 book “Scripts, Grooves, and Writing Machines: Representing Technology in the Edison Era” is a guiding one for my own research.  Gitelman’s theoretical discussion of “the climate of representation within which nineteenth-century shorthand developed and prospered” (62) is both elegant and authoritative.  I can add little but I can offer a slightly different disciplinary perspective that, because it is related to textual studies and the history of print, broadens the scope of her analysis, which is dedicated almost exclusively to Pitmanic shorthand.
+
+However, I approach the subject more from the perspective of writing and textual studies and the history of print, as opposed to hers, which focuses more on the social histories of technologies of inscription in what she calls “the climate of representation in the 19th c.”  [I continue to think that her use of this phrase “climate of representation” is a very useful one, particularly in a 21st c. context.]
 
 Shorthand in the 19th c. and HMB’s Visible Speech
 
@@ -23,12 +161,16 @@ Shorthand in the 19th c. and HMB’s Visible Speech
 7. This is all so exciting to me because it documents the importance of printing technologies and writing instruments, pens, telegraphs, phonographs, typewriters, etc., to the development of later communications technologies and machine languages.  
 
 
-HMB does several things.  He exploits the idea of writing as a control mechanism of speech, first to enable the deaf to communicate and later to assist those who speak in non-standard dialects to "fix" and "correct" their ways of speaking by making them conform to a standard English dialect.  We see this aspect of “Visible Speech” explored in "My Fair Lady" when Eliza is transformed socially by the merging of her writing and speaking dialects [Henry Higgins is based on Henry Sweet, who was a protégé of HMB].  HMB's use of his son, AGB, who is in some sense HMB's amanuensis, links writing as a control mechanism to telephonic communication.  The importance of visible speech to AGB's development of the telephone has been documented in his journals.  How literally (pun intended) we should interpret AGB's use of visible speech as a form of writing is open to interpretation.  What we do know is that graphic communication, at that time, was the only form of long distance communication available.  All of this is so exciting to me because for years I have been trying to develop an understanding of how relationships between speaking and writing are conceived of in writing instruction.  I now can say with some certainty that it is in the 18th c. that the separation of speech from writing in writing instructions begins and that it is in the 19th c. that this division is codified. [c.f. reference to Bell in ______’s book??? C.f. Howell’s Grammar; c.f. Lily’s grammar
+HMB does several things.  He exploits the idea of writing as a control mechanism of speech, first to enable the deaf to communicate and later to assist those who speak in non-standard dialects to "fix" and "correct" their ways of speaking by making them conform to a standard English dialect.  We see this aspect of “Visible Speech” explored in "My Fair Lady" when Eliza is transformed socially by the merging of her writing and speaking dialects [Henry Higgins is based on Henry Sweet, who was a protégé of HMB].  HMB's use of his son, AGB, who is in some sense HMB's amanuensis, links writing as a control mechanism to telephonic communication.  The importance of visible speech to AGB's development of the telephone has been documented in his journals.  How literally (pun intended) we should interpret AGB's use of visible speech as a form of writing is open to interpretation.  What we do know is that graphic communication, at that time, was the only form of long distance communication available.  All of this is so exciting to me because for years I have been trying to develop an understanding of how relationships between speaking and writing are conceived of in writing instruction.  I now can say with some certainty that it is in the 18th c. that the separation of speech from writing in writing instructions begins and that it is in the 19th c. that this division is codified. [c.f. reference to Bell in ______’s book??? C.f. Howell’s Grammar; c.f. Lily’s grammar]
 
 
- 
 
-Emerging after Pitman's system and from his work as an elocutionist, Melville Bell's system was particularly interesting to me because of my research into relationships between speaking and writing in the teaching of college writing and the representations of the relationship between the two modes of communication in college composition textbooks.  Having spent many years attempting to understand exactly how and why the interdiction to "never write as one speaks" became codified in writing instruction practices, textbooks, and folklore, I found that Melville Bell's writings on the separation of the two modes of communication were important ones.  
+As one of the oldest information and communications technologies, systems of  shorthand offer a unique lens 
+In the introduction to his __ book The Origins of Composition Studies in the American College, 1875–1925, John Brereton explains that “the composition course,” is very much a product of late-nineteenth century America, an “age of invention” and “reform impulses.”  To contextualize this invention, he mentions several contemporaneous ones, including the hydraulic elevator, the electric light, the telephone, and the phonograph.  However, he does not mention 19th c. systems of shorthand, technological inventions in themselves that informed both the communications technologies of the telephone and phonograph and the Harvard composition program itself.  
+
+Shorthand has a long history in the west.  
+
+I became interested in the topic of 19th c. systems of shorthand via the work of Lisa Gitelman, a media and technology historian, who teaches at NYU and whose work is amazing.  In one chapter of her 1990 book "Scripts, Grooves, and Writing Machines" she writes about different systems of shorthand being part of any number of "technologies of inscription" (such as the telegraph and the typewriter) contributing to the "climate of representation" in the 19th c. Although most of Gitelman's writing about shorthand is dedicated to Isaac Pitman's shorthand system, which was a huge commercial success throughout the 19th and 20th centuries (by 1888, over a million copies of Pitman's "Manual of Shorthand" had been sold), she also writes a bit about Alexander Melville Bell's shorthand system, which he called "Visible Speech."  Emerging after Pitman's system and from his work as an elocutionist, Melville Bell's system was particularly interesting to me because of my research into relationships between speaking and writing in the teaching of college writing and the representations of the relationship between the two modes of communication in college composition textbooks.  Having spent many years attempting to understand exactly how and why the interdiction to "never write as one speaks" became codified in writing instruction practices, textbooks, and folklore, I found that Melville Bell's writings on the separation of the two modes of communication were important ones.  
 
 What initially drew me to Melville Bell's work was the visual interest of both the script itself and the graphic figures included with it to illustrate its operations.   The script of "Visible Speech" is itself very evocative, recalling in its sinuous shapes some phonetic language from the "Far East."  While I have not had a chance to study the orientalist influences on Bell's system of shorthand, I have no doubt that they exist.  As David Porter has explained in his 1993 book "Ideographia: The Chinese Cipher in Early Modern Europe," the "orientalist undercurrents" of 19th c. linguistics were very strong and continued well into the 20th c.  
 
@@ -66,16 +208,50 @@ In other words, the body itself becomes a writing instrument.  As such, Alexande
 “I chose the name ELIZA for the language analysis program because, like the Eliza of Pygmalion fame, it could be taught to ‘speak’ increasingly well.  Because conversations must be about something, that is because they must take place within some context, the program was constructed in a two-tier arrangement, the first tier consisting of the language analyzer and the second of a script.  The script is a set of rules rather like those that might be given to an actor who is to use them to improvise around a certain theme.  Thus ELIZA could be given a script to enable it to maintain a conversation about cooking eggs or about managing a bank checking account, and so on.  Each specific script enabled ELIZA to play a specific conversational role.  For my first experiment, I gave ELIZA a script designed to permit it to play (I should really say parody) the role of a Rogerian psychotherapist engaged in an initial interview with a patient.” 
 – Joseph Weizenbaum  Computer Power and Human Reason: From Judgment to Calculation (5)
 
+
+
+
 Project Significance
 
 There has been a growing interest in the history of shorthand in relation to the history of computing machines (Liu), literary and book history (Bowles, Davidson), and writing studies (Harris, Haas).  However, the last comprehensive overview of shorthand was published in 1949 and was published, as most of its predecessors were, by Pitman publishing.  In the context of my own research into relationships between print and digital technologies and the roles of college writing instruction and commercial publishing in both, this project will contribute to the clarification of the roles of one specific ICT in the history of engineering and the history of writing education.  
 
+Cuttings
+That the term literacy has, to date, uniformly positive connotations certainly offers one explanation for its ever expanding currency.  Another relates to the fact that the terms reading and writing, a knowledge of which defines the very state of being “literate,” are themselves such “productively ambiguous” ones (Heim 35) [1].
+
+
+
+
+September 11, 2019
+
+Although we may use this word “writing” on an almost daily basis, the many different things connoted and denoted by this one term are often overlooked.  In Writing is a book that considers how many things are actually involved with and referred to in this one term, writing, which, depending on the context in which it is used, can refer to the process of shaping and transcribing ideas via words or other signs and symbols, the texts that are made up of symbolic inscriptions, or the conventions and genres that are associated with the production and reception of texts.   While many people still associate writing primarily with acts and texts related to the representation of verbal language, as our ability to communicate easily with signs other than inscribed verbal language, or words, increases, this term writing only takes on further meaning.   This is a book dedicated to defining and investigating the discrete elements of writing and to thinking about how the media we use in the creation, production, and distribution of writing relate to how writing happens and what writing may mean.  Functioning at once as a graphical, logical, and poetic sign system, verbal language, which is transmitted by writing in different media, has unique properties depending on the medium or media employed for its dissemination (Drucker).  In this project, I investigate the specific functions of writing across four distinct medial environments--handwriting, typewriting, word processing, and javascript—in order to explore the shared and divergent properties of verbal language in each.
+
+Investigating and defining the representational affordances and functions of verbal language are topics that have been addressed consistently by writers, artists, and philosophers since antiquity.  In the sixth century B.C. E., Heraclitus considered the relationships between verbal language and logos, or public understanding, (Kahn) and in the fifth century B.C.E., Plato warned of the potential danger of writing distorting our understandings and perceptions of reality   (“Phaedrus”).  By the first century B.C.E., it was questions about writing’s properties as a representational medium in relation to other representational media, such as painting, that Horace addressed in his Ars Poetica.  This question of how writing relates to other representational media is one that is again taken up during the Renaissance and the Enlightenment in Europe and continues to occupy the attention of cultural critics today.  Part of the reason that questions about verbal language are of such consistent interest is that the definitions and functions of verbal language exist in relation to the technologies available for its dissemination.
+
+In the twenty first century United States, we have arrived at a moment when definitions of writing are being expanded to include communication via media other than words, i.e., pictures and sounds, while, at the same time, the majority of verbal communicative acts increasingly involves the use of machines. As we spend more and more of our time writing with machines and having our words processed automatically, we are quickly approaching a time when automated composition will no longer be a fiction, but a reality.  While the media critic Neil Postman suggests, like Marshall Macluhan, that we are entering a time of “secondary orality,” we are still in the process of figuring out what the implications of such secondary orality may mean for the ways in which words are defined and processed literacy instruction generally and college writing instruction specifically.   While it is generally agreed that relationships between speaking and writing are being refigured in a “digital age,” the terms and concepts available to describe these reconfigurations are still in the process of being worked out.  The word, however undefined as a category, is one point of contact between written an oral communication.        
+
+Despite the explicitly stated importance of communication to the fields of cybernetics and infromation processing (Wiener), the field of media and writing studies continues to play catch up in its ability to adequately theorize and describe the roles and functions inscribed verbal communication.  As the linguist Roy Harris pointed out in his book “Rethinking Writing,” although, in the field of mathematics, there has long been a distinction made between a notation, i.e., a figure, and a script, “there is no such simple and perspicuous statement available in the cases of language” (94).  This inadequacy results, in part, from the very breadth of the field (doubtful) as well as its intertwinement with the reality we live in , i.e., we can only talk about reality using language.  However, the need to articulate exactly what is going on with literacy practices and how today’s multimodal and highly automated acts of communication relate to the current practices and histories of college writing instruction make it important to flesh out what has not been fleshed out in writing studies.  Systems of shorthand, which are one of the oldest technologies of inscription for recording, reproducing, and storing verbal language offer a repository for better understanding the instrumental elements of verbal language and its adaptations in digital environments. Verbal=spoken, alphabetic, instrumental
+
+The alphabet is a notational system for recording verbal concepts.  
+
+Notation=eastern v. western arabic numerals
+Writing system=arabic decimal v. octal
+
+A numeral system (or system of numeration) is a writing system for expressing numbers; that is, a mathematical notation for representing numbers of a given set, using digits or other symbols in a consistent manner.
+ 
+“A mathematical notation is a writing system used for recording concepts in mathematics. The notation uses symbols or symbolic expressions which are intended to have a precise semantic meaning. In the history of mathematics, these symbols have denoted numbers, shapes, patterns, and change.” (Wikipedia, Accessed September 11, 2019)
+
+“A writing system is a method of visually representing verbal communication. While both writing and speech are useful in conveying messages, writing differs in also being a reliable form of information storage and transfer.[1] Writing systems require shared understanding between writers and readers of the meaning behind the sets of characters that make up a script.”
+
+In 1668 John Wilkins in An Essay towards a Real Character, and a Philosophical Language proposed use of base 8 instead of 10 "because the way of Dichotomy or Bipartition being the most natural and easie kind of Division, that Number is capable of this down to an Unite".[4]
+
+The octal and hexadecimal systems are often used in computing because of their ease as shorthand for binary. Every hexadecimal digit corresponds to a sequence of four binary digits, since sixteen is the fourth power of two; for example, hexadecimal 7816 is binary 11110002. Similarly, every octal digit corresponds to a unique sequence of three binary digits, since eight is the cube of two.
 
 I'm writing about systems of shorthand alphabets--one of the oldest information and communications technologies--to illustrate its impact on the history of composition programs, which is significant because some unique aspects of Bell's system continue to inform writing instruction and writing machines into the 20th c. such as writing instruction as a set of instructions, written communication as being separated from spoken communication, conceiving of the human body as an instrument in general and a writing instrument in particular, the afterlives of HMB's system in media, popular culture, and the public imagination. Visible Speech and shorthand in general is important to understanding the histories and presents of the college composition course in the U.S.  While there has been a lot written about the foundation of the Harvard Composition program, I am focusing on its pre-history in the 1860s and, specifically, showing how via Melville Bell's work, writing became an applied science at Harvard. In terms of the history of communications technologies and digital computers, this early definition of writing as an applied science is very interesting, especially in conjunction with the understanding that, shorthand itself grows out of an urge to standardize verbal language. The history of shorthand in the 17th c. can, I believe tell us something about the tensions that still exist.
 
 What was a system of ciphers becomes one about standardization and later about speed and accuracy. It shows how technologies evolve. An instrument used across time in different climates of representation shows how definitions and functions of verbal language are in relation to available media. Multimedia affordances.  Sent from my iPhone
 
 Alphabetic literacy has had a very long run. Though challenged over the years by alternate writing systems, the alphabet has had a preternatural life. Embedded in educational and publishing systems since the 15th c., it is only in the 21st c that its status as a standard is being seriously question. As far as standards go, the alphabet has had a very long run.
+
 
 Yesterday, I learned a bit about the role of early shorthand systems in attempts to control and standardize/clarify written expression.  What struck me yesterday was: 1/ the differences between how numeric and verbal figuration is conceived in the 17th c., and 2/ the reconfiguration of relationships between speaking and writing from the 17th to the 19th centuries.  In the 17th c., there is a perceived need to attach signification to real things in order to control and standardize it.  The “real character” that systems of shorthand seek is about finding a one to one correspondence between words and things.  It is fundamentally an anti-scholastic and anti-rhetorical bias.  Meaning must be correlated to the real world.  Rhetoric is a distraction and an obfuscation.  Figures of speech impede communication.  
  
@@ -97,6 +273,8 @@ brachy=short
 Shorthand is called shorthand not only because it is meant to be quick but because it is meant to be concise.  Brachyography, narrow writing, because of its narrowness of meaning.  Exactitude.  No ambiguity.  Shorthand was, in the 17th c., a universal writing system.  By the 19th c., it becomes a recording system.  
 
 A universal language was meant to only be written and possibly spoken.  Its main intent was to create a truly common universal language and establish a connection between words and things.  In developing these systems, philosophers (was Wilkins a philosopher?) wanted to get away from rhetoric and move to a new science of representation, documentation, and communication.  
+
+Both Hobbes and Bacon write about language as currency.  
 
 
 
@@ -124,9 +302,42 @@ A project that is fundamentally about the ways in which new technologies are inf
 
 The theory behind this project is not new.  The influence of the 17th c. (Bacon, Leibniz) in the theoretical and applied sciences is unquestioned.  However, the pathways and feedback loops connecting the theoretical sciences to the applied sciences, commercial industry, government funded initiatives and programs (military, educational, environmental), and academic disciplines outside of the sciences remain largely uncharted.  This project seeks to use the printed archive (commercial, popular, and academic) to map these connections and to document the roles of technologies of inscription, reproduction, and distribution in shaping socio-cultural and technological phenomena. 
 
+“This book is about machines for writing and reading in late nineteenth century America.  Its purpose is to explore writing and reading as culturally and historically contingent experiences and, at the same time, to broaden the current widely held view of technology in its relation to textuality.” (Gitelman, 1)
+
+The calculus (functions?) of representation needs to be contextualized in a history of capitalism.  So far, this has not happened, at least in part because of the separations amongst disciplines.  What are the functions of those separations?  Why would they be perpetuated?  Whose interests do they serve?
+
+By the time Weiner writes his book, the communicational functions of verbal language already dominate its other functions.
+
+About this project
+
+1/ seeks to be collaborative
+2/ traces the definitions of language in the long 19th/20th c. across disciplines
+3/ documents the importance  of printing technologies and public education initatives in the development of computing systems
+4/ explores the implications of the success of text processing initiatives for literacy education and communication practices in the U.S. in the 21st c. 
 
 2/ traces the definitions, enclosure and management of verbal language in the long 19th/20th c. across disciplines
- 
+
+What I have learned:
+
+1/ Timelines are interesting talking points
+2/ Shorthand is a site where the social and material technologies of writing meet/are brought together
+3/ What is interesting to me is that shorthand is one place where the “functional” aspects of writing are isolated from the other functions of writing and, as a result, it is possible to study shorthand diachronically and synchronically to better understand the roles and interactions and influences of different social and material technologies of language and communication
+
+The trivium: grammar/logic/rhetoric
+
+Grammar: philosophy/psychology/linguistics
+Logic: science/engineering
+Rhetoric: visual arts, music, language arts
+
+The nation state/government/education/industry/natural resource management/administration
+
+The computer word
+
+Maps and indexes and the physical sciences (cf. Kittler and Turing)
+
+The Data Store (create your own reality or just influence the creation of others’)
+
+Harris: notation versus script; a figure (signified?) (verbal or numeric) and its representation 
 
 Introduction: The Index (instrumentality, verbal language, shorthand, and the printed book)
 Babbage’s Shorthand 
@@ -136,8 +347,17 @@ The Computer Word
 “UNIVAC does not forget and does not make mistakes” (Hopper, 1952)
 >, or How Processed Do You Like Your Humans?
 
+How do engineers think about language?
+What do engineers think about language?
+Do engineers think about language?
+At times, yes.  And, generally when they do, they think about how to better control it.  [they think about its deficiencies and how to correct them]
+
+Since the advent of the printing press, we have been writing with and for machines.  However, the extent to which and the means in which machines could participate in the rhetorical context of writing has changed over time.  In the 15th c. human typesetters were the interface between an author and a printed work.  By the early 18th c. and the stereotype, machines were already beginning to replace some of the work of human typesetters.  At the same time, human computers are beginning to be employed.  Babbage begins developing plans for a calculating machine and he is concerned with replacing both the human typesetter and the human computer to eliminate errors occurring whether in calculation or transcription.  What you see is what you get is an engineer’s version of what is said=what is meant.  A one to one correspondence between signifier and signified.  To eliminate the psychological (mental) aspects of communication, we must focus on material traces, not their possible meanings.  The audience is more important than the writer’s intention.  Interpretation is not an option.  A fixing of meaning.  
+
+What the alphabet is and what literacy signifies change with the advent of mass education.  If writing had not necessarily been phonotypical prior to 1870 (1870 UK Education Act; , after that date, it had to be in order to control and manage the newly literate.  Writing has always been a mutifunctional device used for codification, communication, storage, graphic art, religious gospel, expression, but the history of shorthand shows that over time what was a storage and time saving device becomes one that is about standardization.  Shorthand since the 16th c. has had something to do with lexicography and the organization of knowledge.  But in the 19th c., this gets combined with mechanization and mass education.  NYPL Beale Shorthand Collection.  1840: Grammar School Act (expands curriculum); 1868: UK Public Schools Act.
+
  
- HMB did several things.  He exploits the idea of writing as a control mechanism of speech, first to enable the deaf to communicate and later to assist those who speak in non-standard dialects to "fix" and "correct" their ways of speaking by making them conform to ways of writing.  We see this in "My Fair Lady" when Eliza is transformed socially by the merging of her writing and speaking dialects.  HMB's use of his son, AGB, who is in some sense HMB's amanuensis, links writing as a control mechanism to telephonic communication.  The importance of visible speech to AGB's development of the telephone has been documented in his journals.  How literally (pun intended) we should interpret AGB's use of visible speech as a form of writing is open to interpretation.  What we do know is that graphic communication, at that time, was the only form of long distance communication available.  All of this is so exciting to me because for years I have been trying to develop an understanding of how relationships between speaking and writing are conceived of in writing instruction.  I now can say with some certainty that it is in the 18th c. that it begins and in the 19th c. that it is codified. 
+ Well, this shorthand research is getting really interesting as I begin to put it in dialogue with the timeline of printing technologies and writing machines!  I started this email to you LAST Saturday and I'm just returning to it today, THIS Saturday.  It seems like the more I understand something the less inclined I am to write about it.  As someone who "knows a lot about writing" do you have any theories related to what that is about???????  [If the answer is rooted in the psychological reaches of "my childhood," please know that I do not expect you to have a professional opinion ;)]  OK, so all procrastinating aside, here's what I'm thinking.  The history of shorthand shows that overtime, what was a storage and time-saving "technology" becomes one that is about standardization and efficient production.  The history of shorthand can be divided into three periods: 1/ Classical; 2/ Pre-Print; 3/ Post-Print.  Within the post-print period, the changes in shorthand over time are tightly correlated to changes in printing technologies and the socio-cultural technologies associated with them, i.e., education, educational publishing, commercial book market.  For instance, in the 16th c. shorthand is strongly connected to lexicography and the organization of knowledge (Bright and Wilkins).  By the 17th c., shorthand is already being explored in commercial terms.  This continues into the 18th c.  By the 19th c., government sponsored educational and communications initiatives in the UK (first the penny post, later in the century, the English Free School legislation) combined with new printing technologies (lithography, rotary and steam printing presses) result in the reforming of shorthand as one that is then about vocational education and self-improvement/betterment.  Once HMB gets involved with shorthand, Pitman has already established a booming business.  HMB did several things.  He exploits the idea of writing as a control mechanism of speech, first to enable the deaf to communicate and later to assist those who speak in non-standard dialects to "fix" and "correct" their ways of speaking by making them conform to ways of writing.  We see this in "My Fair Lady" when Eliza is transformed socially by the merging of her writing and speaking dialects.  HMB's use of his son, AGB, who is in some sense HMB's amanuensis, links writing as a control mechanism to telephonic communication.  The importance of visible speech to AGB's development of the telephone has been documented in his journals.  How literally (pun intended) we should interpret AGB's use of visible speech as a form of writing is open to interpretation.  What we do know is that graphic communication, at that time, was the only form of long distance communication available.  All of this is so exciting to me because for years I have been trying to develop an understanding of how relationships between speaking and writing are conceived of in writing instruction.  I now can say with some certainty that it is in the 18th c. that it begins and in the 19th c. that it is codified. 
 
 
 More than Human: shorthand and efficiency
@@ -152,21 +372,91 @@ The Phonotypic Alphabet (Pitman, c. 1845)
 
 Self And/Versus Machine (ELO 2016)
 
+In what ways may recombinatory/generated composition methods be standing in for stream of consciousness composition methods? In what ways may they differ?  Why are we asking machines to finish our work for us?  As if the machines have more authority than the humans or are more interesting than the humans.  We have no patience for what anyone thinks these days, but we are all very interested in what they are able to do with various tools.  In a way, is this saying, "I really don't care about you or your particular perspective since I have already made assumptions about who you are"?  What happens to the interiority of the self when we tend to think we are all the same?  (Obviously, we are not all the same, but I do feel we are terribly interested in surfaces, which may be a good thing, but which can, for lack of a better word, lead to superficiality even when its intent is to be concerned with the real and materials).
+
+
+
+
 Bell’s Visible Speech drawings:
 http://www.historytoday.com/kate-wiles/deafness-visible-speech-and-alexander-graham-bell
 
 What Melville Bell did was take existing systems and notions of shorthand and “fit” them to the human body in such a way that the speech organs became instruments that could be operated through graphic instructions.
 
+Interested in tracing the definitions of verbal language in the rhetoric of computing from 1867 – 1967, I hope to compile an archive for scholars to access and analyze in order to facilitate interdisciplinary research and understanding.  
+
+What I really want to do is prove that there is some connection between these two graphic symbols, AMB’s greater than sign signifying the formation of a human word via the emission of breath and the greater than sign signifying the UNIX file descriptor redirect command. 
+
+What connections can be made between typographical symbol signifying the emission of breath used in the formation of a spoken word in a printed diagram from an 1867 book of shorthand and its digital equivalent in the Unix command line?  Could these graphical marks, despite their medial separation, be in some way related?  Metaphorically, there is no doubt that they can be connected in their meanings: the greater than sign, as it is familiarly called has many different meanings.  But what about the provenance of these two specific tokens of this particular type of graphical mark?  What might they have in common?  Well, they both have to do with writing and they both have something to do with Bell Labs.  Could we define Unix as a form of digital shorthand?  
+
+I had been working on a manuscript entitled “Portraits and Conversations” for several years and I got to the point where I was finally able to articulate to myself that what I was actually interested in in this collection of prose pieces created from the recombination of a given set of expressions was “understanding the calculus of meaning making via written transcriptions.”  It strikes me now that this quest to “understand the calculus of meaning making via written inscriptions” is exactly what engineers needed to do to create computers capable of manipulating symbolic systems.  It is a phrase that can be used to describe the principles that guided the evolution of text processing in the mid-20th c. as well as, interestingly, the evolution of long distance communications networks in the late 19th and early 20th c. 
+ 
+“The original text editors used by programmers in their data-handling work were programmer-oriented editors on mainframe computers.  The writer-programmer uses symbological references to text rather than the direct, interactive manipulation of text on a CRT or video monitor.  These text editors did not so much manipulate text as apply the reasoning of algorithmic programming to the process of writing.  Such roundabout use of the computer for writing had less to do with word processing than it did with the application of information processing techniques to the construction and editing of texts.  Still, the early text-editors had taken the first major step: natural language was interpreted as a standard code and then the code in its electronic form could be operated upon, edited, and transmited so as to reappear in its natural language form.  The encoding of letters in the ASCII computer code not only permitted the transmission of natural language at electronic speed; encoding natural language on computers makes possible a new approach to language as directly manipulable in new ways.  Data-handling techniques for number-crunching or for the high-speed manipulation of quantified routine information were applied to natural language communication.” (82)  
+
+[jr: Although Heim entitles his chapter “The Finite Framework of Language,” which may appear to suggest some connection with my interest in how language becomes perceived as a finite, calculable entity over the course of the 20th c., his discussion focuses more on how the existence of word processors proves this fact and what the philosophical implications of it may be rather than showing how this fact came to be accepted as a given in the world of information processing or, as it increasingly seems, in the world of literate humans.]   
+
+Heim wrote his 1987 book using the word processor Framework.  
+
+Heim references Veatch book on p. 83 of his book: 
+Two Logics: The Conflict Between Classical and Neo-analytic Philosophy
+
+
+Henry Babcock Veatch
+
+Northwestern University Press, 1969
+Heim: “Logic is the foundation of the systematic thinking which can become the basis for a homogeneous world language.  But the logic meant here is not the traditional Aristotelian logic which organizes and evaluates inferences occurreing in natural language.  Rather, logic in the modern sense is a network of symbols equally applicable to electronic switching-circuitry as to assertions made in natural language; logic, in the modern sense can become an underlying digital language to be used for the transmission and communication of natural language.  Just as geomatrical axioms are no longer bound to the domain of real circles (physical figures) but are operable with contrary postulates, so too modern logic is free of any naturally given syntax. 
+[note refers reader to Veatch’s 1969 book]
+
+This research project, as you are well aware, dates back to my interest in better understanding relationships between speaking and writing in the teaching of college writing.  Where these two meet is, like the composition classroom itself, a contact zone in which competing interests--personal, commercial, social, educational, technological--interact.  Today, I've been looking at Brereton's Introduction to _The Origins of Composition Studies in the American College, 1875 - 1925_ and thinking about placing a timeline of the history of writing instruction in the U.S. in dialogue with a timeline of data processing and communications technologies.  This should be a useful artifact. 
+ 
+This week's main revelation relates to my ongoing research into the provenance of this term "computer word."  Unlike the terms bits and bytes, the histories of which are well documented via the print record (bits dates from a 1947 Bell Labs Memo and byte from around 1956 [see below for Wikipedia's entry on the history of byte], the term "computer word" is much less well documented. In computer science, the "word" or "computer word" is a data unit made up of a set number of bytes (a bit is a 0 or 1; a byte is a collection of bits, usually, though not always, 8; a word is the next largest data unit.  I've been collecting information related to this question of when and where the term "word" as used in data processing arises and I believe I have finally located the source.  It is in a 1946 report prepared by Arthur Burks, Herman Goldstine, and John von Neumann entitled "Preliminary Discussion of the Logical Design of an Electronic Computing Instrument."  This is a very important document in the history of computing generally, and one that is absolutely fascinating in the history of the definitions and conceptions of language in computing (at this point in time, graphic verbal language; later in time, other types of symbols used in communication, i.e., images and sounds) for many reasons, at least one of which is the fact that Burks wrote his dissertation on the logical foundations of the philosophy of C. S. Peirce.  He was also married to Alice Rowe Burks, a woman who worked as a human computer at the Moore School in Philadelphia and she may have had something to do with Burks' word choice here. Thinking about Peirce's definition of the term "word" and Burks' later decision to use this term as a unit is something I hope to do in the future.  For now, I have my hands full just analyzing what is written in this document in which, the three authors write:
+
+“3.7 We proceed now to a more detailed discussion of the machine.  Inasmuch as our experience has shown that the moment one chooses a given component as the elementary memory unit one has also more or less determined upon much of the balance of the machine, we start by a consideration of the memory organ.  In attempting an exposition of a highly integrated device like a computing machine we do not find it possible, however, to give an exhaustive discussion of each organ before completing its description.  It is only in the final block diagrams that anything approaching a complete unity is achieved.(7)  
+
+“4.0  The Memory Organ
+4.1  Ideally, we would desire an indefinitely large memory capacity such that any particular 40 binary digit number or word would be immediately, i.e., in the order of 1 to 100 milliseconds, available and that words could be replaced with new words at about the same rate.”  (7; authors' emphasis)
+
+It is here on page 7 of this report that the term and concept of the "computer word" is introduced for the first time.  Why did Burks, et al., choose this term?  Is there documentary evidence to explain this word choice?  It seems I would need to spend some time in the IAS archives at Princeton and at the Burks' archives at IUPUI to answer that question. 
+
+Here are a few interesting things about this passage and the date of this report:  First, the term "word" predates both the term bit and the term byte, which intuitively makes sense, particularly when you consider that in the mid-1940s all "computers" were humans.  However, I don't think this is well understood and I, of course (!), think the implications are quite significant in terms of how this data unit called a "word" relates to other definitions of the term word at the time.  I believe and hope to show that this term places a numeric bound around verbal language.  It turns verbal language into a computational problem.  It also, both conceptually and even possibly literally, places acts of reading and writing "words" at the center of data processing.  Considering how this report may have contributed to Shannon's 1948 article "A Mathematical Theory of Communication" is also intriguing.  Reading the later article in light of this report may help us understand something about how Shannon was thinking about verbal language.  (I will write about this issue in an article I have not yet written entitled "Shannon's Bibliography").  Second, the use of the term "organ" to refer to the memory components is pretty fascinating.  Again, this word choice probably relates to the fact that at the time there were human computers.  Nevertheless, that the personification of computing machines begins this early is also noteworthy.  
+
+What would it look like to use a computer purely as a writing tool?  What kinds of applications would you have access to?  It would not be file based, it would be idea based and possibly time based.  People write using notes and by drawing things.  You should be able to draw arrows and see how things are related logically or thematically.
+
+Today, I am amazed by the fact that the first electronic computer was made in 1946!  Forty years later, desktop computers were fairly common and many of the structures that we associate with computing, i.e., file systems, applications were already in place.  The type of progress that was made so rapidly just goes to show you how powerful collaboration amongst the government, private corporations, and universities can be.
+
+The influence of computers on writing practices and writing instruction over the last 50 years has been so pronounced and rapid  as to make it difficult at times to keep track of specific changes that have occurred.  I am consistently amazed by how little push back there has been regarding the adoption of computers in writing classrooms and by writers.  There must have been some, but at this point in time, it seems as though it is mostly the benefits rather than the drawbacks of using these tools that are discussed.  Why was the adoption of computers as writing tools treated as inevitable?  That is a complicated question that can only begin to be addressed by looking at the various parties involved in the business of education and writing.
 
 OK.  So the argument that I want to make is that after the war, the government spent more money on teaching machines to read and write than teaching humans to read and write.  How much was spent on the GI bill compared to military sponsored research and development?  This is obviously not a zero sum game; government spending on education and government spending on the defense industry/private industry are intertwined.
 
+How many file types are there?  Who determines what file types exist?  There must be a standards board for that.
 
+I want to create a digital  archive of important documents in the history of computing in order to facilitate access to them by scholars across the disciplines and to create a space for shared commentary on them and for encouraging and storing collaborative research.
+
+1/ create an archive of important documents in the history of computing
+2/ make this archive available to scholars across the disciplines
+3/ facilitate shared and collaborative annotation of these documents
+4/ encourage the development of shared and collaborative research projects and tools in relation to them
+
+How can we share bibliographies?  How can we work together on research projects?  While networked computing environments have great promise for collaborative research projects, to date, the tools available to facilitate collaborative scholarly work have been minimal.  Yes, I would like to develop a way for scholars to share their notes and ideas about texts.  However, is that what I really want to do?  
+
+“How JPEG Works”: https://www.freecodecamp.org/news/how-jpg-works-a4dbd2316f35/ 
+https://github.com/richgel999/jpeg-compressor/pull/7/files
+Discrete cosine transform
 
 This project is coming into focus as one that is about instrumentality and conceptions of writing.  While it is clear that issues related to instrumentality and language date to the advent of print and particularly to Bacon in the 17th c., I am working with a narrower though still large period, i.e., 1860-1960.  In 1860, Herman Melville Bell conceives of written communication as a set of instructions for the production of sounds.  The body itself becomes a writing instrument.  AGB uses HMB’s method to develop the telephone and visible speech continues to be studied at Bell Labs throughout the 20th c.    Additionally, there are several very important articles published in the Bell Labs Technical Journal related to how verbal language and communication are defined.  I believe there is a very interesting story to tell about how the various threads of the private industry, government funding, higher ed writing instruction fit together.  What is most exciting, is I seem to be finally putting together the evidence required to show how that, in fact, the U.S. government dedicated more funding to teaching machines to read and write than to teaching humans to read and write in the middle of the 20th c.  
 
 There are several different ways to present this story, but they are all very interesting.  One is to trace the history of a graphic symbol from HMB’s visible speech charts in 1867 to the development of Unix in 1967.  This is a visual project.  Another way to tell the story is to assemble the document trail in the Bell Labs Technical Journal.  One other way is to describe all of the threads that need to be collected and really focus on definitions of verbal language in the early part of the 20th c..  This is when Basic English is developed and when crossword puzzles (December 21, 1913) and Scrabble are invented.
 
+Tukey, J. W. 
+Nyquist, 1924, “Certain Factors Affecting Telegraph Speed”  
+Hartley, 1927, “Transmission of Information” Bell System Technical Journal, Volume 7, Number 3, pp. 535–563, (July 1928). (Defines communication as a physical, as opposed to a psychological process; as a result, communication can be quantified)
+Shannon, 1948, “A Mathematical Theory of Communication”
+Rado, 1960, “On Non-Computable Functions”
+Bemer, 1960, “Do It By the Numbers (Digital Shorthand)” 
 
+PDP1 Manual
+
+Terranova
+http://markpriestley.net/pdfs/phd.pdf 
 
 June 1, 2019
 
@@ -180,11 +470,114 @@ Regarding my writing, which continues to be mostly image based non-verbal output
 6. Alexander Graham Bell was fluent in this notational language called Visible Speech and it was instrumental (pun intended!) in his research related to the development of the telephone. 
 7. This is all so exciting to me because it documents the importance of printing technologies and writing instruments, both pens and typewriters, to the development of later communications technologies and machine languages.  
 
+Pitman is acquired by Pearson in 1985
+
+Feb. 2019: Pearson sells its k-12 courseware business to Nexus Capital Management: https://www.edsurge.com/news/2019-02-18-finally-pearson-sells-its-us-k-12-courseware-business
+
+To Labor Less and Accomplish More: http://tolaborless.blogspot.com/2016/06/sir-isaac-pitman-part-1-shorthand-part.html 
+
+https://en.wikipedia.org/wiki/Resident_monitor 
+
+
+
 Teaching Machines to Read and Write
 
 I’ve been arguing for some time that our current socio-educational and economic condition seems to indicate that the U.S. government must have invested more money in the 20th c. teaching machines to read and write than teaching humans. However, it is only recently that I’ve been able to instantiate this claim with concrete evidence.  The vast amounts of money spent on information processing grants to universities in the post-war period is not at all hard to document.  However, what has been more difficult is breaking down the machine learning process.  The distinct steps and stages if you will by which computing machines were “taught” to read and write verbal language, or, as they refer to it in the information sciences, text.   
 
-“The first distance education course in the modern sense was provided by Sir Isaac Pitman in the 1840s, who taught a system of shorthand by mailing texts transcribed into shorthand on postcards and receiving transcriptions from his students in return for correction. The element of student feedback was a crucial innovation of Pitman's system. This scheme was made possible by the introduction of uniform postage rates across Britain in 1840.” (Wikipedia)
+If a word is defined as a socio-cultural and economic object that circulates in time and space, writing can then be defined as a series of acts and conventions related to the exchange of words. 
+
+.  
+Language Design and Programming Methodology conference at Sydney, Australia, September 1979.
+
+
+In computer science, bits have a set definition and refer to one of two states, zero and one.  Bytes, though we tend now to think of them in sets of eight, do not have a standard definition.
+
+While it is generally common knowledge that bits and bytes have something to do with the operations of a computing device, it is less well known that information processing also involves the use of computer words.  there are also words.  Of the many competing definitions of the word “word,” one that literary critics may not talk about enough is what is known as “the computer word.”  The etymology of this term may help us understand some things about the current state of written language, which I am increasingly understanding as part of a larger media economy.  There is no set definition of this term “computer word” and it is, unlike bits and bytes, hardware relative.  Also unlike the terms bits and bytes, the histories of this term are not well documented.  
+
+Like many words that we use on a daily basis, the word word has several different meanings, but what is more surprising still is that even in linguistics, the discipline dedicated to studying language and its operations, the word word is difficult to define.  For, as Heidi Harley explains in her 2004 essay, “What Is a Word?”, “a word has different properties [and different definitions] depending on whether you're looking at it phonologically, morphologically, syntactically or semantically.”  In other words, the definition of the word word will vary depending on whether you are defining it as a series of sounds (phonologically), as a series of morphemes, as a functional unit in a phrase or sentence, or as a sign assigned one or more meanings. 
+ 
+“The redundancy of a language is related to the existence of crossword puzzles.” (Shannon, Mathematical Theory of Communication 14)
+
+
+It is the size of the computer word that prevents new software from being backward compatible.  
+4.6. Computer Word Size
+What is a “64-bit” computer?
+The word size of a computer generally indicates the largest integer it can process in a single instruction, and the size of a memory address, which is usually, but not necessarily the same as the integer size.
+The main indication of the word size is how much memory the processor can address. A 32-bit processor is limited to 232 memory addresses, each of which usually holds one byte. Hence, 32-bit PCs and Macs are limited to a maximum of 4 gigabytes of electronic memory (RAM and ROM).
+Note that 32-bit processors such as the 486, Pentium, and PowerPC G4 have supported 64-bit floating point numbers for a long time, but were still regarded as 32-bit processors.
+http://www.cs.uwm.edu/classes/cs151/Bacon/Lecture/HTML/ch04s06.html 
+ 
+
+When Technology Became Language: The Origins of the Linguistic Conception of Computer Programming, 1950–1960
+David Nofre, Mark Priestley, Gerard Alberts
+Technology and Culture
+Johns Hopkins University Press
+Volume 55, Number 1, January 2014
+pp. 40-75
+10.1353/tech.2014.0031
+ARTICLE
+View Citation [I am arguing that language becomes technologized long before “technology becomes language”]
+
+Hopper, “The Education of a Computer” 
+
+Ritchie
+
+
+“IO Redirection
+The very convenient notation for IO redirection, using the `>' and `<' characters, was not present from the very beginning of the PDP-7 Unix system, but it did appear quite early. Like much else in Unix, it was inspired by an idea from Multics. Multics has a rather general IO redirection mechanism [3] embodying named IO streams that can be dynamically redirected to various devices, files, and even through special stream-processing modules. Even in the version of Multics we were familiar with a decade ago, there existed a command that switched subsequent output normally destined for the terminal to a file, and another command to reattach output to the terminal. Where under Unix one might say
+ls >xx
+
+to get a listing of the names of one's files in xx, on Multics the notation was
+iocall attach user_output file xx
+list
+iocall attach user_output syn user_i/o
+
+Even though this very clumsy sequence was used often during the Multics days, and would have been utterly straightforward to integrate into the Multics shell, the idea did not occur to us or anyone else at the time. I speculate that the reason it did not was the sheer size of the Multics project: the implementors of the IO system were at Bell Labs in Murray Hill, while the shell was done at MIT. We didn't consider making changes to the shell (it was their program); correspondingly, the keepers of the shell may not even have known of the usefulness, albeit clumsiness, of iocall. (The 1969 Multics manual [4] lists iocall as an `author-maintained,' that is non-standard, command.) Because both the Unix IO system and its shell were under the exclusive control of Thompson, when the right idea finally surfaced, it was a matter of an hour or so to implement it.” (Ritchie, 1979, “The Evolution of the UNIX Time Sharing System” http://www.netzmafia.de/skripten/unix/uhist.html) 
+
+
+
+Having become increasingly interested in relationships amongst the history of print, the development of machine languages, and the status and definitions of verbal language, I have been assembling a collection of historical documents that I consider significant to these three very broad topics and their intersections.  Among these are scientific articles, technical memos, user guides, instruction manuals, educational textbooks, and collections of tables and calculations.  In other words, documents that are at one extreme, the technical, or what is at times referred to as the banal, of what we call “Literature.” [Note:  The term “the literature” is usually reserved for the category of documents that I am referring to here while the term “Literature” is reserved for the texts that literary critics study.] 
+
+While it is my belief that cultural critics working in the humanities need to become more involved and concerned with these texts that have not, to date, been deemed to be of concern to them, it is not just to draw the attention of scholars working in the humanities to these documents that I am compiling them.  Rather, I hope to, in doing so, also compile evidence to dispel the very commonly held early 21st c. notion that a clear divide exists between the printed book and the digital computer. So widespread is this idea in mainstream media discourse that the claim that the computer may have in some way “killed the book” has become part and parcel of our collective common knowledge.  However, I increasingly believe that this notion is a misreading of media history at the heart of which are motives that themselves need to be questioned and investigated.  For, while it may appear in our current media context that the digital computer has in some way “killed the book,” I believe that if it has, it has done so not to eradicate it, but to remediate it. 
+
+Hoping to understand how technologies of inscription, reproduction, and communication are intricately and dialectically related to definitions of language generally, as well as to further connect the discourses of the sciences and humanities, this project centers around readings of canonical texts in the history of computer science to not only expose and explore their foundations in and connections to literary and philosophical texts but to, at the same time, raise questions and inspire discussion concerning their presumed authority and status.  
+ 
+What follows are a collection of views of an essay entitled “On A Method Of Expressing By Signs The Action Of Machinery,” which was published by Charles Babbage in 1826. Dedicated to a discussion of, among other things, a proposed short hand method for efficiently describing and communicating the parts and actions of a mechanical device, this essay is an important document in a timeline of interconnected documents dating from the early 17th century to the present, which I am compiling to illustrate and investigate the proposition that the printed codex can be both literally and figuratively defined as the first computer.   [which can be defined figuratively, if not literally, as the first computer]
+
+Re: Acts of Redaction
+ 
+From a reader’s perspective, there is no end to the uniqueness of there is something unique about the textual functions in a redacted document are multiple and self-replicating [propogating].  One becomes as interested in what can’t be read as what is legible.  Further, the act or fact of redaction places the document in a special category.  It may be in some way dangerous or harmful, partially secret, censored, or of concern.  It is therefore all the more noteworthy that the majority of documents that are redacted are government documents that would usually be considered of little to no interest and may even be nothing more than the mass of the most often unread or unnecessary compulsorily composed text that ends up in the waste stream, or, for a time, filed away until, at some later day, they areultimately is disposed of.  What happens to all of those words?  They used to end up in the landfill.  Now, they end up on hard drives in data centers in the Nevada desert.  Digital trash.  As we run out of physical space, the commodification of our lives must continue.  It is being virtualized and miniaturized. 
+
+
+
+Notes
+
+From Gutenberg to the Internet: A Sourcebook on the History of Information TechnologyEdited by Jeremy M. Norman
+
+
+In a media economy, a written word has relative value.  
+
+
+
+Writing instruction and writing instructions.
+
+
+This book is about writing as a representational and cultural medium, which informs writing as representational and cultural media.  It explores the characteristics and affordances of alphabetic writing at this particular socio-cultural moment in North America.   
+
+This book is about the ways in which writing as a representational medium with numerous socio-cultural functions shapes and informs digital media.
+
+This book is about relationships between writing as a medium and its relationships with writing as media.  
+
+This book is a history and analysis of relationships between verbal composition and communication and numeric computation from 1614 to the present.  It traces a history of the socio cultural and economic relations amongst writing instruction, writing technologies, printed books, the publishing industry, and writing machines.  Computation emerges from alphabetic language.  Computation emerges from written communication practices, its uses, affordances, requirements, and possibilities.  
+
+This book is about writing as a socio cultural and technical contact zone.  It is about the relationships between humans and machines via writing, i.e., written verbal language.
+
+Is Leibniz’s calculator a writing machine?  Is calculus a kind of writing?
+
+What relationships exist amongst writing as a medium and tool and media?  
+
+Since the widespread adoption of the printing press, we have been writing with and for machines.  However, the ways in which and the extent to which machines could participate in acts of writing have changed over time.  We have now reached a point where machines play an active role not only in the reproduction and distribution of writing, but in its production and, even, at times, in its creation and composition.  As we find ourselves more and more writing with and for machines, there is the possibility that functions once assigned uniquely to humans can be automated.  In this project, we look at the implications and possible consequences of such automation for the teaching and learning of college writing at CUNY  and at City Tech attending in particular to the ways in which the machines we use in the creation, production, and distribution of writing relate to how writing happens and the complex relations between these processes and what specific acts and artifacts of writing may mean. 
+ Although we don’t often say it today in such terms, a human is a computer.  The next question, at least from a logical perspective, then, is: does that mean a computer is a human?  The answer to the second question is, obviously, no.  Humans are biological organisms.  Computers, at least as we define them today, are technological objects.  A computer is a human creation.  It is a tool and an invention.  It is not a living thing.  However, let’s consider the many ways in which humans function as much like computers, objects that I like to refer to these days as sophisticated calculators, as they do as biological organisms.  Both humans and computers are symbol making machines.  Further, verbal language, the medium of representation we most often associate with acts of writing, which functions at once as a graphical, logical, and poetic sign system, has unique properties depending on the tools employed for its production and dissemination.  While the definition of writing as an artificial language is only one of many, the ongoing dominance of this definition and function in many college writing courses is also very real.
 
 March 5, 2018
 
@@ -192,6 +585,116 @@ I began the day looking at my investments and then at social media.  Around 10:
 ).  Andersen wrote the story in 1848, which seems like a significant date to me, particularly in relation to flax and linen and how both are featured in Marx’s Capital (date of composition?).  
 
 The afternoon was spent thinking more about the NEH grant and reading Kittler’s essay on Code and Matthew Fuller’s book “Software Studies” in which that essay appears and “Media Ecologies.”  I have never read either and I should.  I also came across an introduction to a course about Turing and art that included a translation of Kittler’s introduction to his collection of Turing’s papers.  Kittler’s redux of Turing’s comment about the relationships between the physical sciences and language/cryptography in his essay “Code (or How You Can Write Something Differently)”, left me thinking about the astrolabe and the index and how language and the physical sciences mutually inform one another [are really one and the same].  I’d like to make this point, but it seems like a difficult one to clarify.  I suppose the afternoon related to the morning in the sense that I was able to say at the end of the day that the alphabet is a code and is itself an information and communications technology that facilitates storage and preservation.  
+
+Kittler’s “telegraphically” condensed synopsis of Turing’s paragraph reads: “Whether everything in the world can be encoded is written in the stars.”  That seems like a fun sentence to play with!  I’ll have to look up the German.  Oh, and translation was on my mind again re: “The Flax” and the digital.  I was thinking about how to play with the text of the Flax and different translations of it in making a point about the “translation” to digital media.  
+
+I ended the day with a walk in Saratoga park, which was nice.  It gave me a chance to sort through a few things that I’d been doing and thinking about today.  Analogue.  Mechanical.  Digital. Metaphor.  Moving language around.  The physical sciences.  Technologies and Language.  How language is defined, as energy or as data.  I need to organize some of these thoughts.  I also need to prepare the NEH proposal and the tripwire piece.  Are the two related?  I decided for a moment today that they were, but now I’m having a hard time remembering just how they connect.  Through their bibliography?  Are those inheritable?  That is a hard question to answer.  However, we definitely know that they are shared.  Computer languages and teaching machines to read and write.  H. M. Bell and his connection to Harvard. The Bell Systems Technical Journal.  Short hand and the human as recording machine.  At what point in history do you begin your analysis?  Kittler begins his with the Roman Empire!  That is when shorthand begins.  If writing is defined as a type of coding, it is simply repetition.  All of these words are codes for other words.  I need to return to my speaking/writing research and say something about that.  I have so much to do!!!!!!!!!!!!!!!!!!  OK.  I should get started.  (I actually began the day thinking I would compile a collage of Napier’s tables!) 
+
+English Visible Speech in Twelve Lessons: Illustrated
+By Alexander Melville Bell
+
+DFG: (German equivalent of NSF but includes the Humanities)
+http://www.dfg.de/en/dfg_profile/statutory_bodies/index.jsp
+
+Frieder Nake:
+http://dada.compart-bremen.de/item/agent/68
+
+“There is a remarkably close parallel between the problems of the physicist and those of the cryptographer. The system on which a message is enciphered corresponds to the laws of the universe, the intercepted messages to the evidence available, the keys for a day or a message to important constants which have to be determined. The correspondence is very close, but the subject matter of cryptography is very easily dealt with by discrete machinery, physics not so easily.1
+Kittler, paraphrasing Turing: “Whether everything in the world can be encoded is written in the stars.” (Turing, Intelligent Machinery)
+
+https://monoskop.org/images/6/6e/Kittler_Friedrich_2008_Code_or_How_You_Can_Write_Something_Differently.pdf
+
+The Flax (1849): http://hca.gilead.org.il/flax.html
+
+http://www.andersen.sdu.dk/vaerk/hersholt/TheFlax_e.html
+
+http://pinkmonkey.com/dl/library1/tale030.pdf (1872 translation)
+
+http://www.howderfamily.com/blog/snipp-snapp-snorum/
+
+https://fee.org/articles/belle-isle-city-of-dreams-an-interview-with-rod-lockwood/
+
+http://www.lulu.com/shop/http://www.lulu.com/shop/rodney-lockwood/belle-isle/paperback/product-23075370.html
+
+June 1897, Harvard Composition and Rhetoric Report composed by Charles Francis Adams, E. L. Godkin, George R. Nutter 
+
+“In 1886 Pitman went into partnerships with his sons Alfred and Ernest to form Isaac Pitman and Sons. In the same year the millionth copy of the Phonographic Teacher was sold in Great Britain. Sir Isaac Pitman and Sons was to become one of the world's leading educational publishers and training businesses with offices in London, Bath, New York City, Melbourne, Johannesburg, Toronto and Tokyo. The publishing division was bought by rival Pearson Plc in 1985. The training business evolved into two separate businesses: Pitman Training and JHP Training (now learndirect).” (Wikipedia/The Phonetic Journal, Saturday, 16th April, 1887)
+
+In 1985 Pearson Plc acquires Pitman publishing division
+
+“The first distance education course in the modern sense was provided by Sir Isaac Pitman in the 1840s, who taught a system of shorthand by mailing texts transcribed into shorthand on postcards and receiving transcriptions from his students in return for correction. The element of student feedback was a crucial innovation of Pitman's system. This scheme was made possible by the introduction of uniform postage rates across Britain in 1840.” (Wikipedia)
+
+https://en.wikipedia.org/wiki/Phonautograph
+
+https://en.wikipedia.org/wiki/Photoengraving
+
+https://en.wikipedia.org/wiki/Diode_logic
+
+https://en.wikipedia.org/wiki/Logical_NOR
+
+https://en.wikipedia.org/wiki/Logic_gate
+
+
+Leibniz established that, by using the binary system, the principles of arithmetic and logic could be combined.
+
+
+Peirce, “Logical Machines” (1887) https://history-computer.com/Library/Peirce.pdf
+
+"But moving from a vague sense that writing is profoundly different with different material and technological tools to an understanding of how such tools can and will change writing, writers, written forms, and writing's functions is not a simple matter." (Haas, Writing Technology, np)
+
+"But to see technology as something that is added to writing in certain situations is to misunderstand the essential relationship between writing and technology, and this misunderstanding adds to the difficulty of addressing the Technology Question." (Haas, Writing Technology, np)
+
+
+
+November 28, 2018
+
+Dear James, What I am most interested in at the moment is understanding the calculus of meaning making via written transcriptions. I believe this model could be fairly complex.  There is the means and the purposes [ways and means and purposes] of inscription, replication, distribution, communication and consumption and these two things are in some relation to one another ; what is considered a transaction, or the why of writing changes in relation to our definitions of language and technologies of inscription and replication.  However, definitions and technologies are interdependent and mutually informing.  
+
+In what ways is writing a medium?  As John Cayley writes, the digital is not a medium.  [He does not say what the digital is per se, but he reminds us that that the digital is made up of many different technologies and processes and money flows.  Discursively, I see the digital primarily functioning as it is as a fiction.  Writing is also at times a fiction, but I’d say less so than it used to be because it is part of an aging technological apparatus.  Humans no longer have to function as word processors.  We have machines to do that.  I see the story of the technologizing of the word as starting with the printing press and really picking up steam in the early 19th c. (pun intended?).  
+
+I like thinking about things and I like understanding how things work.  I’ve been involved with literature throughout my life and as I get older, my understanding of what literature is has changed significantly.  I’m trying to understand what we are all doing here and I increasingly believe that we need to return to a more community based structure of society.  That’s about it for what I know.  I think understanding the world around us and developing a shared language or common cognitive framework for understanding the world is crucial.  We are so far from this right now in the U.S. and as a result, we are seeing large institutions malfunction.  They may ultimately collapse (federal government, catholic church) and the question is what will take their places?  Global, multi-national corporations are the obvious replacement for big government, but a key tenet of big government is that it is supposed to be impartial.  This is impossible for large corporations who have a market interest and are always looking for an advantage.  This state sponsored capitalism thing had a good run!  What will replace it?  A lot of people are asking this question. 
+
+This book is about writing as a representational and cultural medium.  It is an explanation of the characteristics and affordances of writing at this particular socio-cultural, economic, and technological moment in the U.S.  It is written for people who are interested in writing as a set of representational and communications technologies and in the following questions: what can writing do?  How does it do things?  Why do we make things with writing?  I used to have answers to all of those questions.  I now see them as always being in relation to a complex set of technological,  socio cultural, and economic dynamics.  
+
+I am interested in the how of writing, meaning how humans negotiate with and interface with the technologies of verbal written language in relation to natural language [natural language is a portmanteau term encompassing speech sounds and sense perceptions].  I am interested in how humans make sense of “natural” language [via its contact with artificial languages and the tools of writing] and what their expectations are regarding it.  The model I use to describe writing is one that isolates the discrete purposes/functions of writing into three categories: how writing is created/what writing is received as/why writing is necessary.  In the context of thinking about how writing and writing instruction relate to various technologies of representation, replication, and communication, this model can be very useful.
+
+The three sections relate to one another with respect to their shared investigation of how written language signifies for writers and readers and in terms of what writing’s possibilities are and what assumptions we bring to written representations.  Writing is a multifunctional device that exists in some relationship to nature.  I believe there is a reconfiguration between writing and speaking in the mid-19th century when it is “determined” that speaking can be defined as a set of instructions.  This proposition placed in the context of mid-19th century media and communications, i.e., government/commercial network, propagates itself in ways that are unique to this particular socio-cultural moment.  
+
+Heim writes that the idea of language as a finite entity is one that emerges quite late.  There are philosophical, linguistic, economic, educational, technical, scientific, and socio-cultural structures that enable this change to take place.  In ___, Von Humboldt defines language as energy.  By the early 20th c., language is defined as a system. 
+
+Digital Advertising Fraud Ring:  
+
+March 5, 2018
+
+I began the day looking at my investments and then at social media.  Around 10:30 I moved to the big computer and started thinking again about Dispatches From an Uncertain Future and not thinking about the NEH grant and the Tripwire article.  In thinking about Dispatches, I began looking for the book about the “utopian” Belle Isle development in Detroit.  I had thought that I had saved a copy of that, but it turns out that I had not.  In fact, I don’t know if the text is available for free.  There is a link below to where it can be purchased.  Nevertheless, I located the bibliographic info and found some parts of it.  It is a surprisingly well written narrative!  I had thought that I might re-write the text, but it seems so coherent and “acceptable” that I don’t know that that will work.  What does stand out as somewhat extraordinary are the author’s comments about the development and what he envisions for it.  It is a libertarian “utopia” that is planned.  Is that an oxymoron?  As I was searching for this, I came across a very old short story of mine entitled “Detroit,” which was, much to my surprise both not that bad and complete!  I was more impressed with it than I had ever been in the past. Is this because I write so little these days?  After that, I started thinking about the tripwire piece, which will include my QR code alphabet and some illustrations or texts from one of the numerous visible speech publications.  The inclusion in the Volta Bureau illustrated edition of an excerpt from a Hans Christian Andersen story entitled “The Flax” is particularly interesting to me, both in terms of the original story and in terms of how it is excerpted for the visible speech manual.  It is a very sad story about a flax plant that has great ambitions in the world and does not seem to have adequate appreciation for its natural attributes beauty.  As a result, the flax is delighted to be uprooted and turned into linen, which is then turned into paper, and then finally burned.  There are further traces of industrialization in the story:  the “snipp, snapp, snorum” rhyme, which is repeated twice in the story, appears to be nonsense, but actually refers to a cluster of towns that were developed for mining purposes (http://www.howderfamily.com/blog/snipp-snapp-snorum/
+).  Andersen wrote the story in 1848, which seems like a significant date to me, particularly in relation to flax and linen and how both are featured in Marx’s Capital (date of composition?).  
+
+The afternoon was spent thinking more about the NEH grant and reading Kittler’s essay on Code and Matthew Fuller’s book “Software Studies” in which that essay appears and “Media Ecologies.”  I have never read either and I should.  I also came across an introduction to a course about Turing and art that included a translation of Kittler’s introduction to his collection of Turing’s papers.  Kittler’s redux of Turing’s comment about the relationships between the physical sciences and language/cryptography in his essay “Code (or How You Can Write Something Differently)”, left me thinking about the astrolabe and the index and how language and the physical sciences mutually inform one another [are really one and the same].  I’d like to make this point, but it seems like a difficult one to clarify.  I suppose the afternoon related to the morning in the sense that I was able to say at the end of the day that the alphabet is a code and is itself an information and communications technology that facilitates storage and preservation.  
+
+Kittler’s “telegraphically” condensed synopsis of Turing’s paragraph reads: “Whether everything in the world can be encoded is written in the stars.”  That seems like a fun sentence to play with!  I’ll have to look up the German.  Oh, and translation was on my mind again re: “The Flax” and the digital.  I was thinking about how to play with the text of the Flax and different translations of it in making a point about the “translation” to digital media.  
+
+I ended the day with a walk in Saratoga park, which was nice.  It gave me a chance to sort through a few things that I’d been doing and thinking about today.  Analogue.  Mechanical.  Digital. Metaphor.  Moving language around.  The physical sciences.  Technologies and Language.  How language is defined, as energy or as data.  I need to organize some of these thoughts.  I also need to prepare the NEH proposal and the tripwire piece.  Are the two related?  I decided for a moment today that they were, but now I’m having a hard time remembering just how they connect.  Through their bibliography?  Are those inheritable?  That is a hard question to answer.  However, we definitely know that they are shared.  Computer languages and teaching machines to read and write.  H. M. Bell and his connection to Harvard. The Bell Systems Technical Journal.  Short hand and the human as recording machine.  At what point in history do you begin your analysis?  Kittler begins his with the Roman Empire!  That is when shorthand begins.  If writing is defined as a type of coding, it is simply repetition.  All of these words are codes for other words.  I need to return to my speaking/writing research and say something about that.  I have so much to do!!!!!!!!!!!!!!!!!!  OK.  I should get started.  (I actually began the day thinking I would compile a collage of Napier’s tables!) 
+
+English Visible Speech in Twelve Lessons: Illustrated
+By Alexander Melville Bell
+
+ “There is a remarkably close parallel between the problems of the physicist and those of the cryptographer. The system on which a message is enciphered corresponds to the laws of the universe, the intercepted messages to the evidence available, the keys for a day or a message to important constants which have to be determined. The correspondence is very close, but the subject matter of cryptography is very easily dealt with by discrete machinery, physics not so easily.1
+Kittler, paraphrasing Turing: “Whether everything in the world can be encoded is written in the stars.” (Turing, Intelligent Machinery)
+
+https://monoskop.org/images/6/6e/Kittler_Friedrich_2008_Code_or_How_You_Can_Write_Something_Differently.pdf
+
+The Flax (1849): http://hca.gilead.org.il/flax.html
+
+http://www.andersen.sdu.dk/vaerk/hersholt/TheFlax_e.html
+
+http://pinkmonkey.com/dl/library1/tale030.pdf (1872 translation)
+
+http://www.howderfamily.com/blog/snipp-snapp-snorum/
+
+January 30, 2018
+
+Bell’s Visible Speech drawings:
+http://www.historytoday.com/kate-wiles/deafness-visible-speech-and-alexander-graham-bell
 
 What Melville Bell did was take existing systems and notions of shorthand and “fit” them to the human body in such a way that the speech organs became an instrument.  
 
@@ -206,14 +709,117 @@ How Processed Do You Like Your Humans?
 
 To sound like yourself in writing is not to speak as you write but to write as you speak [this is not quite right.  What I mean to say is “voice” is a construct in writing, a hybrid of speech with writing].  Voice becomes “Voice.”  Visible speech is the standardization of the natural.  A mechanization of the natural.  The codification of breath/life.  A human becomes replicable once its discrete components are understood.  
 
+The mechanization of the human.  
+The question “who am I?” can be answered from the perspective of components.  It is a way of looking at the world.  Humans as not so simple machines.  
+
 Was AGB raised as a telephone?  The short answer is “yes.” The longer answer is also “yes,” though it involves a lot of explanation.  
 
+Phones are sounds.  How do you transmit sounds over distances?  Via vibrations?
+
+In human psychology, cabinets and cupboards are important.  They are places where we put things away.  Their size and shape depends on the individual. 
+
+Take a picture of what you have written.  Draw a picture of what you have written.  Description, Replication, Interpretation.  
+
+We market cognitive frameworks.  Our products give you insight into how other people think.  You will now be able to understand products from the perspective of different customer bases.  Cognitive frameworks as lenses to view things through.  
+
+Modular living.
+Fish Tank Theater.
+Reading to Cats.
+What’s in a word?  The valence of words.  
+Taking things literally.
+
+Photographing language has to do with light and sounds and words and symbols.   Mapping the human language.
+
+Verbal Media: handwriting, letter press, stereotype, linotype, photostat, mimeograph: technologise of reproduction
+
+Reading Markson as Science Fiction
+
+Wittgenstein’s Mistress can be read as an allegory for many things.  One important one, I would argue, is the end of writing.  
+
+Wittgenstein, the philosopher, was once a grammar school teacher.  When he was, he wrote a grammar book for children.  I have not read it.  I would like to.  What would be in it?  The parts of speech in all likelihood.  What else?  Pictures?  Numbers?  Words?  It was one day all of the things that I had not been paying attention to that became important and were filled with meaning.  What is that experience like?  Did Emerson have a similar experience, c.f., it is all of the things we are not paying attention to that are important.  The experience must be like looking at a picture from a new perspective.  Looking at one of those paintings that represent different things depending on the perspective from which you look at them.  Are they always goblets and heads of women?  Do you see one thing or two?  Can you see two things at the same time?  Or do you see nothing at all?  “Achoo” is one of the words that suddenly became important to Wittgenstein.  What else?  Serially.  Rigidly.  What did he call those words?  “Gas.”  I think by this word he meant “hot air,” or, possibly “hot breath” though that phrase never had any meaning generally.  Heat rises.  As do balloons filled with hot air.  Hot Frats, a culinary invention of the late 90s, was a type of deep fried ravioli with sweet ricotta filling.  Currently, it does not have the same connotation as “hot air,” though, perhaps some day, it could.  
+
+So it is words or phrases repeated that take on meaning.  What is considered important and when and why.  Isn’t that really what education is about?  I don’t know anymore.  I don’t think I ever did.  What did David Markson know about menstruation?  As far as I know, he and Robert Musil are the only 20th c. authors to write about menstruation in their novels.  Coincidence?  Does writing have a gender?  I suppose it depends on the purpose for which it is being used.  Obfuscation is a specialty of mine.  Why write that book as a woman?  Perhaps for the same reasons that I like to write as a man: it allows for a specific experience and type of displacement and detachment.  I don’t know what it is like to be a man in the world and so writing as a man is a kind of cross dressing, which is, of course, liberating.  Is it dishonest?  I guess it depends whom you ask.  Dressing up.  The supplements.  What if all of the dystopian worlds that have ever been created came together?  Will Smith, Wittgenstein’s Mistress, The Walking Dead.  (it makes sense that writers would often imagine post-apocalyptic worlds.  Writing is fundamentally a solitary task.)  The post-apocalyptic suits writers well.  It is fundamentally what the experience of writing is like: one is entirely alone, or at least can pretend to be.  Nothing I ever say is true.  Therefore, why do I so often find myself believing what I say?  Parentheses and meaning.  C. S. Peirce.  Are you reading this to understand or because you are my mother?  Cybernetics means to govern.  Are human beings intended to be used?  Such beautiful writing.  Would I think that even if I did not imagine the book being set in Amagansett?  Why is Long Island so weird?  Telling stories.  Sure, I lived there.  And there also.  I slept in Proust’s bed (it was a twin (simple)).  Beds, like clothes, used to be smaller.  Giotto drawing a perfect circle as a sample of his work!  The things one knows.  The things one believes.  The things one thinks one knows.  Dante Slept Here printed on a navy blue ceramic coffee mug made in China.  “I am not here.” Referring to myself in the third person.  Bob Dole.  Did he have a stroke?  In autumn.  In winter.  With time.  The Last Man On Earth is a TV show with nine characters in it.  The post-apocalypse will take place somewhere in the Bay Area.  One liners.  Sean Spicer’s green tie.  He wore it in honor of St. Patrick’s day.  
+
+If writing is like drawing then…
+
+________ is like photography.
+
+Lunch Box.  Everyday is different. 
+
+Reluctantly, color blends
+Holds reluctant knots
+Hold amount like amounts
+To colorblends I live
+In game two in Brooklyn
+Holds that amount
+For whether knots securely
+
+Focusing on the how of writing
+Automation and composition
+
+Making things visible in language
+To picture
+To represent
+
+Shifting meanings.  Ambiguity.
+Misreading.  To not understand is to experience.
+On whether.  To under.  Through in. 
+Finite/Infinite
+Does abstract always mean non-representational?
+
+The Functions of Words.
+Words as Materials.  As Matter.  An interesting medium with lots of unknowns.  
+
+Could Sebadoh be the name of a cat?
+What about Agamemmnon?
+
+Let’s pretend that your life is perfect.  Rather, let’s pretend that your life is your life.  Are those statements synonymous and/or identical?  Pen.  Paper.  Words.  Money.  Feeling nervous-breakdown-y.  Unstable.  Not quite right.  Outside of the space and time of reality.  What do you want to do?  Here are some options: this, that, some third alternative.  Photographing language.  Doing what you are told.  Understanding and its discontents.  Pictures.  Descriptions.  Ambiguity.  Suggestions.  Constructing things in such a way as to open up possibilities.  Constructing spaces of signification.  What are you doing?  Transcribing language.  Transcribing moments of time.  
+
+Inside my head.  Outside my head.  Representation and its Discontents.  Here is what I know: I need to produce more.  What I have not done: Speaking/Writing; Babbage’s Drawings; Was AGB…?
+
+The transcription of inner speech to written representation requires many filters.  A selective breakthrough of the “natural” is sometimes welcome.  This is referred to as voice, itself an artificial construct, meaning it is not sounding like oneself speaking but rather like oneself writing.  It is the how of writing.  To instruct is always to explain.  Here is a sentence.  The next one must…
+
+To argue: to position oneself in opposition; to describe: to verbally depict what is there; to narrate: to depict a series of events in time.  
 
 A Calculus of Representation: the how and what of making copies.  
+
+Meaning, meaning, meaning
+
+Is SF a genre or mode?  Isn’t the more interesting question, “what does the future look like?” or “Is there a future?” or “Do you realize we are making the future?”
+
+SF is a specific relationship to time?
+Why do we read SF?
+What are the purposes of SF?
+What happens to SF as a “living genre” if those purposes change?
+
+I can’t quite put all of the pieces together.  
+
+We are all anthropologists and historians.  It is just a question of what your period is.  Measuring time.  Architecture. 
+
+January 11, 2018
+
+Re: Digital Writing Spaces: “How we perceive them [sentences], understand them, and remember them depends upon what we decide about their structure. And just as the student of space perception must have a good understanding of projectiuve geometry, so a student of psycholinguistics must have a good understanding of grammar.” (Miller (1962): 756)
+
+First known use of sentential: 1646 (Merriam Webster online edition:  “Sentential.” Merriam-Webster.com, Merriam-Webster, www.merriam-webster.com/dictionary/sentential. Accessed 25 May 2018.
+
+http://glencoe.mheducation.com/sites/0078805775/student_view0/unit2/tech_talk_activity_2_1.html
+
+Craig Finseth: https://www.finseth.com/parts/ascii.php
+
+“More formally, in the initial stages of learning and for a wide range of tasks humans process information at approximately ten bits/second and there is an increasing relationship between errors and speed. Much conscious intervention is required with consequent fatigue. In contrast to this, highly overlearned speed skills may be executed at apparent speeds of around forty bits/second and the relationship between errors and speed breaks down. Note especially that in this state, reducing speed may well increase errors as may conscious interference with the unconscious performance of the skill; performance is much more consistent and consequently more predictable. Also, Bartlett[2] has reported that the invariant elements do not degrade with fatigue but only the higher level control functions which, taken with the increased performance possible, provides two reasons for wishing our user to automate his skill as quickly as possible. Everyday skills such as using natural languages, playing ball games, operating machines and so on all include large components which are automated to the degree characterised above.” (Whitfield, 1972)
+
+“Note that interference is a two-way dynamic process; here the natural language interferes with the artificial one and vice versa, any period without exposure to one increasing the relative strength of the other. The loser, again particularly for casual users, in any deal of this sort is bound to be the artificial language.
+Another point of lesser importance but well worth considering is the possible effect of operant conditioning on our terminal user's performance. While it is no doubt unpleasant to to see ourselves as sharing aspects of behaviour with white laboratory rats it is nonetheless true that we condition just as effectively. Anyone who doubts this might ask himself what the attraction of fruit machines and bingo is. The basic requirement for operant conditioning to occur is quite simply that some activity becomes temporally connected with something that the subject regards as pleasant and that continued activity continues to produced the desired effect. The most durable conditioning is produced when when the rewards are randomly distributed in time and proportionate to the effort expended but sometimes do not materialise ('random ratio reinforcement'). I would suggest on this basis that we need not worry about lack of motivation in our console users.” (Whitfield, 1972)
  
 From pp. 1-24 of Feb. 2017 - Jan. 2018 journal 
 
 What if our conceptions and expectations of time are correlated to the medial environment in which we live?  
+
+Narrative time and the commodification of the human sphere
+
+Today, I am thinking about ambiguity with Michael Heim.  
+
+How do we define language?
 
 Are operating systems “language environments”?
 Are they logical structures?  
@@ -227,6 +833,115 @@ What if we call algorithms something else?  For instance, assembly lines?  Modu
 
 Algorithms are descriptions of behaviors and phenomena.  They are also repeatable processes.  
 
+Word processing 
+Emotion processing
+Behavior processing
+Machine-human integration
+Machines that act like me
+Machines that act for me.
+The commodification of everyday life. 
+Analysis: taking things apart
+Re-formulation: putting things back together
+
+Home phones, the idea of home, the place of the home are on my mind today.  That connection to a specific wall.  What to do.  What the point of it “all” is.  How to make things stop.  Arbiters of taste and fortune.  What I am and am not good at.  How much money.  What I really want to do.  Survival.  Surviving versus Living.  Monday’s class.  How to think about today.  I like making things: projects, proposals, cakes, tarts, bread.  I do not mind being an expert, but I do mind being an educator.  I’m not sure what I want my pay grade to be.  In fact, that is not true.  I do know: quite low.  At least this is what I think.  How to focus.  How not to distract (or distrust) oneself.  How to be o.k.  I like to have a/ten project(s).  
+
+How much time do you have in a week?
+How much time does each project require?
+Please calculate these things based on actual, not wishful, thinking.
+
+On the off chance that you are already, I mean, if you might be, or could be.  What if I just don’t like that many people?  This never before occurred to me as a possibility.  I mean I get along so well with so many people.  How many people will you meet in your life?  How many will you actually get to know?  And on TV, or what used to be called TV, it is mostly family members or friends standing in for family members who are portrayed as those an individual may frequently interact with.  Crossed arms.  Are you agreeing with me?  I would expect you would, though knowing you, you may not just because you are an angry leprechaun.  It is so easy to be mean about people you actively dislike.  Where did he emerge from?  Some used car lot in Iowa City?  And how did he end up here?  Pure will, obviously, unlike me.  My journey was propelled by the opposite: indecision, dumb luck, and an instinct to survive.  Will had nothing to do with it; if it had, I never would have ended up where I am.
+
+What is it like to be mentally ill?  It is like being knocked off a shelf.  
+
+Living Naturally in an Artificial World
+
+[A thousand pieces of broken mirror all reflecting off one another.  This is the perspective that I’m interested in.] (March 14, 2017)
+
+Maps and Categories and Understandings
+
+I discovered only recently that I live in a pre-Newtonian universe.  Science, that holy word, one I have avoided for so long.  Was it my 11th grade chemistry teacher or my 12th grade physics teacher who made it clear to me that I wanted nothing to do with the sciences?  Just one more reason why robots really are a better solution when it comes to classroom instructors.
+
+Faust and science fiction.
+
+Movement: allegory, synechdoche, metaphor, simile
+
+Moving pictures.  Are pictures outside of time?
+
+Fables, myths, stories, narratives.  We, who love to be astonished.
+
+Taking pictures of verbal language.  Writing is a fixing.  Stopping time.  
+
+If language is work, energia, not a thing but an activity…  the meeting of the logical and poetic in language
+
+I used to think there was a word for everything.  I no longer do.  
+
+Proust as science fiction, i.e., time travel.  Dante.
+
+The technologizing of the word involves a separation of space and time.  
+
+Writing is media, both material and channel.  These are mutually informing.  Writing is a medium of expression.  
+
+What is language?  It is a communal system for specifying and exchanging meaning.  
+
+Time is the material of our lives.  
+The calendar.
+The day, hour, minute.
+
+What happens to all that is unsaid?  Does it disappear like some unstable compound that can’t exist in the earth’s atmosphere?  Or does it get recorded and stored, put away in a cupboard?  Just so you know, those are the only two options.  
+
+The perfecting of a life.  
+One hundred dollars.
+What if you lived your life based on how much money you actually needed instead of how much you could possibly have?
+
+What is enough?  Defining enough.  
+
+To be useful = to be happy.  However, one has to be useful in a way that is true to oneself.  Big picture.  Little picture.  
+ 
+January 9, 2018
+
+Haas, “technological transparency”
+Haas: “mental representations of the text”
+Haas: documenting “a sense of the text”: “this text sense is intrinsically tied to material tools and the physical interactions those tools support or require.”
+Haas: “overcoming the culture-cognition impasse in writing scholarship will require refiguring writing, in all its complexity, as of the body and of the mind.” (Haas’ emphasis)
+
+Haas: a technological perspective on writing allows for a bridging of the psychological and cultural perspectives on writing pedagogy
+
+"We invest in things that are addictive": IPhone addiction may be a virtue, not a vice for investors https://go.fidelity.com/w6jte
+
+ 
+
+“A Coat Is Not the Code,” or Can Machines Read?: Remediating Alphabetic Texts to Explore Definitions and Acts of Reading
+
+Inspired by Rita Raley’s call in her 2017 ELO Conference keynote to explore “concatenation,” or the bringing together of disparate technical systems to disrupt positivist narratives surrounding the transformative potential of “the digital,” this paper considers the material and socio-economic realities of writing and reading in the West in 2018 and proposes some possible interventions.       Text and image; does it matter how the text is dressed?  Annotation and multiple editions, shared readings.  What can be done with alphabetic texts?  Do they need to be read in their entirety?  The functions of communication.   Hegemonic narratives.  
+
+In 2015, I was invited to contribute to a project at the NYU Labor Archive.  I contributed “Machines Can’t Read.” Since then, I have learned a great deal more about machine writing and reading and I have had to revisit and revise my opinions about both.  It is not that I no longer worry about the growing importance of machines in all aspects of human communication practices.  I do.  However, I no longer believe it is possible to oppose this trend based on traditional or nostalgic views of literacy.  Rather, I think it is necessary to engage in what Rita Raley referred to in her 2017 ELO Keynote address, “acts of concatenation,” or those that ______ if we are to I no longer see machine reading as something to be 
+
+What do you want to say? 
+
+2018: We are living in a reality of our own invention when it comes to written alphabetic communication.  Having decided to teach college writing as we have over the last several decades and willfully ignore [adapt to rather than protest or react against, question, circumvent, alter]the socio-technical apparatus in which written communication functions (the means of producing this writing, i.e., the tools,?), writing educators may have contributed to the creation of “dead letters” or a “dead language,” which is to put it in dire and dramatic terms, but which is perhaps not far from the state that we are in.       
+
+People are reading differently.  Time and space of reading are changing.  Should not the texts be delivered to address these changes?
+
+Performing the Human
+
+Palimpsests and Annotations
+
+When Old Technologies are Old: Media Economies and the Use of Labor
+
+Interested in exploring the relationships between media and labor, I have become intrigued by the ways in which old and outdated/out of date/unusable technologies can be used as a way to read these traces.   Can you repurpose a 1972 television remote control device as a telephone?
+
+Value/no value
+
+Garbage
+
+Was AGB Raised as a Telephone?  Writing Speaking and Long Distance Communication
+
+What does it mean that AGB is writing speech?  One example.  Writing meets speaking in a different way, as transcription of the mechanical functions of the human body.  
+
+Why wasn’t Latin adopted as a universal scribal language?  
+
+
+
 February 8, 2017
 
 [February 29, 2016]
@@ -239,14 +954,32 @@ information is a difference that makes a difference (Bateson)
 
 Here is what I know: language is an organism that is always changing.  How we define and conceptualize “language” is a big question and open to debate.  In some sense “language” is always a metaphor for other things.  In another sense, it is just what it is: the means by which humans communicate with one another and experience, record, and describe the conditions of their existence.  As a natural attribute of humans, language is different from the technologies that humans create to manipulate, exploit, and use what simply is: language.  Writing, a term that encompasses a wide-range of technologies both as practices and as tools, exists in some relationship to natural languages, primarily perhaps to spoken language or speech, but also in relationship to other natural languages: seeing/sight, smelling/smell, touching/touch, hearing/sound
 
+oral communication / verbal communication
+
 how writing does things, i.e., results in transactions, enables transactions, is changing.  It is being “automated,” which is to say that its functional property as logical code is being separated from its other functions, which were once part of all of those things:  processes, genres, conventions, that were part of what we call writing in a general sense.  
 
 This quest to isolate and distinguish the “functional” aspect of written communication has a long history.  I am particularly interested in conceptions of this problem and in approaches to it in the 19th c.  In particular, Babbage’s mechanical notation (1826) and H.M. Bell’s Visible Speech. 
 
+A history of artificial/machine languages begins with the printing press.  
 
+Works of elit are both a microcosm and a symptom of the changes taking place in writing in the fullest sense of the term.  
+
+A separation: artificial versifying, systems of education]
+
+February 10, 2017
+
+Seuils: architecture and reading.  
+
+Rubery, Matthew.  The Untold Story of the Talking Book.  Harvard, 2016.
+http://www.hup.harvard.edu/catalog.php?isbn=9780674545441&content=bios
+
+It seems to me that one important question about science fiction as a genre and as a series of works is how one defines this phrase “science fiction,” both as a noun phrase and as an adjectival phrase, and the two terms that make up these phrases.  
 
 As Elizabeth Kirkpatrick writes in her definition of “Writing,” “Writing can be defined both by its material aspects as well as by its place in the media world and as a social practice. The Oxford English Dictionary defines writing as "wording or lettering scored, engraved, or impressed upon a surface; an inscription". (see type print) Indeed, the concrete materials used to write consist of both the markings themselves and the surface upon which the markings are made. However, the OED defines writing in several other ways as well, as "the occupation of a professional writer", and as "the action of composing and committing to manuscript... literary composition or production," giving a nod to the function of writing as a social practice and form of media in our society.” (Theory of Media Keywords)
 
+Halliday: Systemic Functional Grammar, which jr refers to as Social Functional Linguistics 
+
+Chomsky: Generative Grammar
 
 It is my belief that Chomsky does not differentiate between spoken and written communication in the same way that Halliday does.  
 
@@ -258,7 +991,7 @@ Couldn’t You Just Draw a Picture?  Time and Reading in Different Media
 
 Have we lost patience with words as a means to broadcast information?  
 
-Writing is graphic communication.  We have lost patience with writing as a means of transmitting information.  We prefer to watch and listen to stories.  There are different ways to account for this socio-cultural shift.  Certainly, the advent of lower cost high-quality video recording, distribution, and viewing equipment is one reason.  However, another explanation relates to the separation of the discrete functions of verbal language and their re-packaging for ease of consumption.  Here is one, not terribly convincing example: the garden gnome.  As visual signifier, this is highly informative.  As verbal signifier, it is much less informative.  [note (December 8, 2017): the garden gnome was featured briefly in Robin’s short film “Out Again,” and it was the meanings attached to it in relation to the story being told in the film that prompted me to relate it as an example of (at the time) exactly the kind of commodification of information that I was talking about.  In retrospect, my notes on this topic are, at best, cursory.]  How processed do you like your humans?  Reading and writing are cultural practices and cultural constructs.  Spending time/making more time.  How do you spend your time?  In pennies or dollars?  You cannot save it, but you can allocate it.  You can also waste it.  Like water?  I’m not sure.  Probably more like those platters of cheese served on black plastic at every college meeting.  Those chunks of cheese are never all consumed.  There is a special section of the landfill reserved for those cubes of munster and cheddar and monterey jack.  Can you name what you are eating?  How can we consume more?  Distant reading.  Passing time.  Encoding.  The microchip as capitalism’s unconscious superego.  Alexa: 1125241.  Literacy as mapping.  Automation.  Yes, we can, but why would we?  Writing is a code.  REC=really existing capitalism.  Visible speech spells spelling: to say is to do.  In 1614 logos becomes a number.  What do we do when we spell a word?  We translate between two codes: writing and speaking.  
+Writing is graphic communication.  We have lost patience with writing as a means of transmitting information.  We prefer to watch and listen to stories.  There are different ways to account for this socio-cultural shift.  Certainly, the advent of lower cost high-quality video recording, distribution, and viewing equipment is one reason.  However, another explanation relates to the separation of the discrete functions of verbal language and their re-packaging for ease of consumption.  Here is one, not terribly convincing example: the garden gnome.  As visual signifier, this is highly informative.  As verbal signifier, it is much less informative.  [note (December 8, 2017): the garden gnome was featured briefly in Robin’s short film “Out Again,” and it was the meanings attached to it in relation to the story being told in the film that prompted me to relate it as an example of (at the time) exactly the kind of commodification of information that I was talking about.  In retrospect, my notes on this topic are, at best, cursory.]  How processed do you like your humans?  Reading and writing are cultural practices and cultural constructs.  Spending time/making more time.  How do you spend your time?  In pennies or dollars?  You cannot save it, but you can allocate it.  You can also waste it.  Like water?  I’m not sure.  Probably more like those platters of cheese served on black plastic at every college meeting.  Those chunks of cheese are never all consumed.  There is a special section of the landfill reserved for those cubes of munster and cheddar and monterey jack.  Can you name what you are eating?  How can we consume more?  Distant reading.  Passing time.  Encoding.  The microchip as capitalism’s unconscious superego.  Alexa: 1125241.  Literacy as mapping.  Automation.  Yes, we can, but why would we?  Writing is a code.  REC=really existing capitalism.  Visible speech spells spelling: to say is to do.  In 1616 logos becomes a number.  What do we do when we spell a word?  We translate between two codes: writing and speaking.  
 
 There are true, false, and open sentences in math.  There are also real and unreal numbers.  If a sentence is a complete thought, does that mean it is a complete sentence?  Where does this definition of a sentence come from?  
 
@@ -273,6 +1006,8 @@ I have been interested in the roles and functions of standards in technical proj
 
 
 What if the cursor that you see on your computer screen originated from the human body?  Further, what if this symbol was originally derived from a mark signifying the emission of breath accompanying the formation of a spoken word?  While this may sound intriguing if somewhat implausible, I hope to convince you that the connections between the two apparently disparate realms of human and machine communication can be documented.  The story I plan to tell connects these two symbols, the spoken and the written, the human and the machine, the mechanical and the digital, in ways that may illuminate some pieces of the complex relationships that exist amongst old and new technologies of inscription and representation.   
+
+We are often told that only generalizations will result from trying to think about socio-economic history in categories that are too large.  However, today’s trend toward interdisciplinary studies and the evisceration of disciplines is never criticized for the same reasons.  In the interest of leveling the playing field, I believe it is time that we begin to look at the interconnections amongst disciplines and their relations to sources of private and government funding even if this means that certain nuances related to disciplinary history will have to be, for now, overlooked.  
 
 While Disciplines Have Unique Identities and Histories They intersect at different points in time and inform one another in unique ways.  The mid-20th c. in the U.S. is one important inflection point.  In the process, feedback loops are created. 
 
@@ -299,11 +1034,22 @@ What is spoken to a consumer via an NLP application is written.  It is the prop
 Alexander Melville Bell’s Visible Speech and the Conception and Use of Humans as Writing  Instruments in 19th c. Britain  
 As one part of an ongoing, interdisciplinary and collaborative research project dedicated to investigating relationships and dynamics amongst conceptions of verbal language, information processing, and the history of computational and communications technologies, (Re)Mediating Alphabetic Language considers the importance of Alexander Melville Bell’s Visible Speech, a patented system of “universal shorthand,” to the development of 19th c. communications technologies, particularly Alexander Graham Bell’s telephone, as well as the longer term implications of this notational/writing system in conceptions of language and information processing at Bell Labs in the early 20th c.  The presentation engages with the work of Lisa Gitelman, Rita Raley, Michael Heim, and Matthew Kirschenbaum in its discussion of the changing value(s), definitions, and functions of written inscriptions in late 19th c. Britain and the U.S., and in its exploration of connections amongst alphabetic writing systems, technologies of literacy, and proto-machine languages. 
 
+What if the cursor that you see on your computer screen originated from the human body?  Further, what if this symbol was originally derived from a mark signifying the emission of breath accompanying the formation of a spoken word?  While this may sound intriguing if somewhat implausible, I hope to show that this connection between human and machine communication can be documented.  The story I plan to tell connects these two apparently disparate realms of communication (the human and machine) and in the process also traces connections amongst, the spoken and the written and the mechanical and the digital, in ways that may illuminate some pieces of the complex relationships that exist amongst old and new technologies of inscription and representation. 
 
+Functional and Integrational linguistics (___ and Harris) Having taught college writing for many years, I have developed a structural model of writing that shows how, from a functional perspective, i.e., from the perspective of how it is made and what it is being made for, is a term that never means one thing.  Instead, depending on the perspective from which its functions are approached, though all sharing the communicative function, its definitions and values differ quite drastically.  From a writer’s perspective (writing as a process), writing is a means of thinking in language.  From a reader’s perspective (writing as a textual object), writing is a means of communicating something via verbal language.  From a social or rhetorical perspective (writing as an action/transaction), writing is a means of enacting something.  [However, every textual object is not only communicating a message, but seeking to enact something as a result of that message.  It is in this sense that writing is an action.]  
+
+UNIX and word processors.  What I learned from Heim and Kirschenbaum and my own research into the history of word processors is that word processors are an engineer’s idea of how we should be writing.  
 
 What is at issue is conceptions, models, and definitions of “the” human being written collectively by a global network of machines and human operators, many of whom, are unaware of their roles and functions in relation to machines.
 
+Disability, non-standard dialects, publising, media, literature, education, narrative. A media calculus.  
 
+January 30, 2018
+
+Bell’s Visible Speech drawings:
+http://www.historytoday.com/kate-wiles/deafness-visible-speech-and-alexander-graham-bell
+
+What Melville Bell did was take existing systems and notions of shorthand and “fit” them to the human body in such a way that the speech organs became an instrument.  
 
 February 25, 2017
 
@@ -311,10 +1057,30 @@ Was Alexander Graham Bell Raised As a Telephone?  Technologies of Writing and S
 
 Frankly beautiful, the curved, carving-like strokes of Alexander Melville Bell’s “universal language,” which he called Visible Speech, may remind most contemporary readers of what is at times even today, anachronistically, referred to as “Siamese,” one written script of the Tai-Kadai language family that most of North Americans will have seen at some point on a Thai takeout menu.  Though actually resembling Sinhalese characters in their appearance even more than Thai characters, the Visible Speech “alphabet” by default maintains some type of connection to these tonal languages by virtue of the fact that it is based on standardized graphic transcriptions of shorthand notations describing the discrete functions of the human speech organs.  Was Alexander Melville Bell familiar with south Asian language scripts in general or Sinhalese or “Siamese” scripts particularly?  As an elocutionist, a 19th c. term for one who studied verbal language production and use, it is quite likely, though the question of how Visible Speech is derived from Western imperial conceptions of these languages takes us down a different printed geneological path and with it a different bibliography.
 
+cognitive/social technologies
+
+The alphabet is a tool for social control.  But for some time, the alphabet has been being replaced by numbers.  
+
+Combining a post-colonial perspective on the functions of writing and national literatures with a historiography of composition and linguistics in the U.S., Rodgers shows that as the key functions of verbal communication were being transferred to machines, language education both shapes and informs this transfer of knowledge and in the process fossilizes its former purposes thus rendering them insignificant and purposeless.  
+
+From the most abstract perspective, verbal language is a code.   
+
+Travel, conquest, entertainment, business.  Enclosure.  The remaking of the natural as artificial.  You are a machine.  
+
+Writing and mechanization.  
+
   
-The argument I am trying to make is that over the course of the last two centuries, the ways in which we define language have changed, moving from a natural/human definition to an artificial/machine definition.  The story of how this happens is extraordinarily complex and involves many different disciplines.  I don't want to oversimplify things and it is hard with such a broad argument not to do just that, but I am determined to put the pieces of this story together in some a manner that will help me make my point.  This is a story that has to do with how definitions of language are always in relation to  media and education and communications technologies. So here is how I envision telling this story at the moment: I want to begin the piece with a description of a film still from "My Fair Lady," which depicts a page from Henry Higgins' diary that is written in Visible Speech, a shorthand system developed by Alexander Melville Bell in the 1860s.  Higgins shows this page to Eliza Dolittle, who is unable to read it.  This is a fascinating moment for several different reasons.  First, the point of Visible Speech as it was developed was that it was supposed to be a "universal language," so the fact that Eliza cannot read it signifies that she is part of the "natural" world.  She will be taught to read this language and in the process to conform to the dialect standards of proper English.  However, to do so, she will have to learn to treat her body as a machine for the production of sounds.  Until then, she will not be able to understand the script, which is itself a set of instructions for the production of sounds and ultimately for the correct pronunciation of words.  What is happening in the mid-19th century is the "enclosing" of human language as a territory for development, exploitation, and capitalization.
+
+My reasons for doing this stem from my research into the history of writing instruction and how it is intricately tied up with technical and economic structures.  The argument I am trying to make is that over the course of the last two centuries, the ways in which we define language have changed, moving from a natural/human definition to an artificial/machine definition.  The story of how this happens is extraordinarily complex and involves many different disciplines.  I don't want to oversimplify things and it is hard with such a broad argument not to do just that, but I am determined to put the pieces of this story together in some a manner that will help me make my point.  This is a story that has to do with how definitions of language are always in relation to  media and education and communications technologies. So here is how I envision telling this story at the moment: I want to begin the piece with a description of a film still from "My Fair Lady," which depicts a page from Henry Higgins' diary that is written in Visible Speech, a shorthand system developed by Alexander Melville Bell in the 1860s.  Higgins shows this page to Eliza Dolittle, who is unable to read it.  This is a fascinating moment for several different reasons.  First, the point of Visible Speech as it was developed was that it was supposed to be a "universal language," so the fact that Eliza cannot read it signifies that she is part of the "natural" world.  She will be taught to read this language and in the process to conform to the dialect standards of proper English.  However, to do so, she will have to learn to treat her body as a machine for the production of sounds.  Until then, she will not be able to understand the script, which is itself a set of instructions for the production of sounds and ultimately for the correct pronunciation of words.  What is happening in the mid-19th century is the "enclosing" of human language as a territory for development, exploitation, and capitalization.
+
+What I am most interested in at the moment is understanding the calculus of meaning making via written transcriptions. I believe this model could be fairly complex.  There is the means and the purposes of inscription, replication, distribution, communication and consumption and these two things are in some relation to one another ; what is considered a transaction, or the why of writing changes in relation to our definitions of language and technologies of inscription and replication.  Further, these two things are interdependent.  In what ways is writing a medium?  As John Cayley writes, the digital is not a medium.  [He does not say what the digital is per se, but he reminds us that that the digital is made up of many different technologies and processes and money flows.  Discursively, I see it primarily functioning as is a fiction.  Writing is also at times a fiction, but I’d say less so than it used to be because it is part of an aging technological apparatus.  Humans no longer have to function as word processors.  We have machines to do that.  I see the story of the technologizing of the word as starting with the printing press and really picking up steam in the early 19th c. (pun intended?).  
 
 
+In January, 2018, I began a project entitled "$10 Laptop," using a $__ card that I had purchased and planning to repurpose a discarded screen and keyboard to operate the computer with.  I discovered in the process that building was probably more expensive than repurposing already assembled and discarded computers.  That is one strain of the story driven by my burgeoning understanding that I no longer wanted to be held to Apple's mandated upgrade schedule.  I am old enough to believe that I own a computer.  It was not until I began to understand if one were  using commercial operating systems and applications this model no longer applied.  Software as a service is the new model and the only way out of that model is to begin understanding how computers work for yourself.  As obfuscation becomes an ever increasingly important part of the business strategy of silicon valley, I needed to learn something about computers if I were not going to be forever enslaved by large corporations.  The internet was built as a public resource but its use, like every public project in state sponsored capitalism, is not guaranteed to be in the public interest.  I believe writers should be paid and I believe humans are important.  I am not so much anti-automation as anti-irrational development.  Humans need jobs and like to work.  Just because machine can do something does not necessarily mean that it should be used to do that thing.  Some people refer to this as an ethics of technologies.  That sounds like a nice idea, but just as "ethical state-sponsored capitalism" is not possible, given the fact that technologies defined in an instrumentalist sense become a synonym for state sponsored capitalism, I question that such an ethics of technologies is possible without some serious overhauling of other terms, i.e., the public, government, democracy.
+
+Evidence of the importance of literature in the history of computing is widespread if most often fairly perverse, at least from the perspective of a literary critic. 
+
+In his autobiography, Joseph Weizenbaum named his 1966 "chatbot" Eliza  after the main character of Bernard Shaw's play Pygmalion.  
 
 
 
@@ -461,6 +1227,43 @@ Last revised: 05/12/2011 09:44:18
 Please send comments or corrections to duchan@buffalo.edu
 
 
+Babbage, Charles. 1822. Letter to Sir Humphrey Davy. London: J. Booth. [Google Scholar]
+Bailey, Nathan. 1721. An Universal Etymological Dictionary. London: Printed for E. Bell, etc. [Google Scholar]
+Barchas, Janine. 2003. Graphic Design, Print Culture, and the Eighteenth Century Novel. Cambridge: Cambridge University Press. [Google Scholar]
+Bracher, Frederick. 1944. The Maps in ‘Gulliver’s Travels.’. Huntington Library Quarterly 8: 59–74. [Google Scholar] [CrossRef]
+Paddy Bullard, and J. McLaverty, eds. 2013. Jonathan Swift and the Eighteenth-century Book. Cambridge: Cambridge University Press.
+Castle, Terry J. 1993. Why the Houyhnhnms Don’t Write: Swift, Satire and the Fear of the Text. In Critical Essays on Jonathan Swift. Edited by Frank Palmeri. Boston: G. K. Hall. [Google Scholar]
+Cornelius, Paul. 1965. Languages in Seventeenth and Early Eighteenth-Century Imaginary Voyages. Geneva: Librarie Droz. [Google Scholar]
+Didicher, Nicole. 1997. Mapping the Distorted Worlds of Gulliver’s Travels. Lumen: Selected Proceedings from the Canadian Society for Eighteenth-Century Studies/Lumen: Travaux Choisis de la Société Canadienne d’Étude du Dix-Huitième Siècle 16: 179–96. [Google Scholar] [CrossRef]
+Ehrenpreis, Irvin. 1957. The Origin of Gulliver’s Travels. PMLA. December, 72. Available online: http://www.jstor.org/stable/460368 (accessed on 10 October 2017). [CrossRef]
+Ehrenpreis, Irvin. 1989. The Allegory of Gulliver’s Travels. Swift Studies 4: 13–28. [Google Scholar]
+Halsbland, Robert. 1985. Eighteenth Century Illustrations of Gulliver’s Travels. In Proceedings of the First Münster Symposium on Jonathan Swift. Edited by Hermann Josef Real and Heinz J. Vienken. München: W. Fink. [Google Scholar]
+Hubbard, Lucius Lee. 1922. Contributions towards a Bibliography of Gulliver’s Travels. Chicago: Walter M. Hill. [Google Scholar]
+Karian, Stephen. 2014. Jonathan Swift in Print and Manuscript. Cambridge: Cambridge University Press. [Google Scholar]
+Kiernan, Colin. 1971. Swift and Science. The Historical Journal 14: 709–22. [Google Scholar] [CrossRef]
+Knowlson, James. 1975. Universal Language Schemes in England and France 1600–1800. Toronto: University of Toronto Press. [Google Scholar]
+Koch, Lawrence Andrew. 1996. Silicon Poetics: The Computer as Artifice and Author. Master’s thesis, University of Montana, Missoula, MT, USA. [Google Scholar]
+Liu, Lydia H. 2011. The Invention of Printed English. In The Freudian Robot: Digital Media and the Future of the Unconscious. Chicago: The University of Chicago Press. [Google Scholar]
+Lowe, Solomon. 1749. Arithmetic in Two Parts. London: James Hodges. [Google Scholar]
+Lund, Roger D. 1983. Res et Verba: Scriblerian Satire and the Fate of Language. The Bucknell Review 27: 63–80. [Google Scholar]
+Lynall, Gregory. 2012. Swift and Science: The Satire, Politics, and Theology of Natural Knowledge, 1690–1730. New York: Palgrave Macmillan. [Google Scholar]
+Napier, John. 1614. Logarithmorum Canonis Descriptio. Edinburgh: Andrea Hart. [Google Scholar]
+Nicolson, Marjorie, and Nora M. Mohler. 1937a. The Scientific Background in Swift’s Voyage to Laputa. Annals of Science 2: 299–334. [Google Scholar] [CrossRef]
+Peirce, C. S. 1887. Logical Machines. The American Journal of Psychology 1: 165–70. [Google Scholar]
+Peter, John. 1677. Artificial Versifying, or the Schoolboy’s Recreation. London: John Sims. [Google Scholar]
+Porter, David. 1993. Ideographia: The Chinese Cipher in Early Modern Europe. Stanford: Stanford University Press. [Google Scholar]
+Walter Scott, ed. 1814. The Works of Jonathan Swift. Westminister: Archibald Constable.
+Sena, John F. 1990. Gulliver’s Travels and the Illustrated Book. In The Genres of Gulliver’s Travels. Edited by Frederik N. Smith. Newark: University of Delaware. [Google Scholar]
+Smith, Frederik N. 1990. Scientific Discourse: Gulliver’s Travels and The Philosophical Transactions. In The Genres of Gulliver’s Travels. Edited by Frederik N. Smith. Newark: University of Delaware. [Google Scholar]
+Steele, Richard. 1726. November 13, 1711. The Spectator 3: 287. [Google Scholar]
+Swift, Jonathan. 1726. Travels into Several Remote Nations of the World. [writing as Lemuel Gulliver]; London: Benjamin Motte. [Google Scholar]
+Swift, Jonathan. 1912a. Swift to Benjamin Motte, December 28, 1727. Correspondence 3: 438–39. [Google Scholar]
+Swift, Jonathan. 1912b. Swift to Alexander Pope and John Gay, October 15, 1726. Correspondence 3: 347–48. [Google Scholar]
+Swift, Jonathan. 1912c. John Arbuthnot to Swift, November 8, 1726. Correspondence 3: 350–51. [Google Scholar]
+Swift, Jonathan. 1912d. John Gay and Alexander Pope to Swift, November 17, 1726. Correspondence 3: 358–59. [Google Scholar]
+Swift, Jonathan. 1978. Gulliver’s Travels. Edited by Peter Dixon and John Chalker. London: Penguin. [Google Scholar]
+Weiss, Eric A. 1985. Jonathan Swift’s Computing Invention. IEEE Annals of the History of Computing 7: 164–65. [Google Scholar] [CrossRef]
+Williams, Harold. 1925. The Motte Editions of Gulliver’s Travels. The Library; OUP, December, 6. Available online: http://library.oxfordjournals.org/content/s4-VI/3/229.full.pdf+html (accessed on 3 March 2016).
 
 
 
