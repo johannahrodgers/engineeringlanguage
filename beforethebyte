@@ -1,0 +1,145 @@
+ELO 2020
+ 
+Before the Byte, There Was the Word: Exploring the Provenance and Import of the ‘Computer Word’ for Humans, for Digital Computing Systems, and for Their Relations
+
+
+Johannah Rodgers
+ 
+Abstract
+
+Embedded in digital computing systems are assumptions about verbal language, its definitions, its behaviors, and its functions.  How might it be possible to excavate these and begin discussing them?  
+
+What I am looking for are answers.  How did we get to a place where machines, their “languages” and their “conversations”  interest us as much, if not more than what humans have to say?  Like most of the questions I have been taught to ask the answer is at once quite simple and complex: because we have decided to. But who is we and what was the decision? The answers to these questions may vary slightly over time; the constants have to do with access to funding sources and networks of communication and power.
+
+What I am looking for are answers.  How did we get to a place where verbal communication became a fixed-sum game in which one’s options for expressing oneself are a set of calculations? Obviously, the inclusion of machines into a greater and greater percentage of our lives is part of the answer.  But you must remember, these machines and tools themselves have histories.  Before there was Alexa, there were word processors, before that there typewriters, then telegraphs, then printing presses.  As Carolyn Marvin has reminded us, the story of electricity is quite old, but it is not yet over.  It is now opening up new spaces and possibilities, new forms of counting and accounting, new time scales, new definitions of matter.  
+
+In 1946 in Princeton New Jersey we is a group of university trained researchers needing to protect their jobs and research budgets in the post-World War II economy. How do you justify that?  Science, capital S, a term that did not yet have its 21st century connotations nor, for that matter, its 21st-century denotations, turns out to be part of the answer. Industry is the second part.  What the US economy needed in 1946 was jobs and structured training programs preparing individuals for those jobs.  So three-men a philosopher a physicist and a mathematician write a proposal to construct a machine will bring together computation, science, and industry.  It had at that date no stated purpose except to be a general purpose computational machine.  The work of such machines had been being performed by human computers, usually, by this date, women and other individuals who were not by race or ethnicity white. This could have continued but that would have been to grow the economy based on what was rather than what could be.  Did someone say we've done this before with cars? Did someone suggest we have done this with food?  Or was that left unstated?    
+
+In 1946 there are no business school masters degrees.  There is no McKinsey consulting group.  There is the federal government of the United States and it's bloated defense budget.  There are blank companies listed on the New York Stock Exchange there are blank colleges in the US blank percent of the US population has a college degree
+
+By 1994 blank percent of US population has a college degree and there are blank companies listed on the New York Stock Exchange and the NASDAQ
+
+How much money was spent teaching the machine to read and write? It is a big number in my estimation about blank which is roughly blank times the size of the local and state and federal funding for public education
+
+The communication metaphors describing interactions between humans and machines had been well established since at least the 1880s but the language metaphors arose later developing only after the Communications Systems had been deemed organs meaning systems capable of feeding themselves. Albeit artificial ones, meaning with some human assistance they could be made to appear to be feeding themselves as organisms.  Once endowed with memories the machines could be taught to do things but how would they be instructed? With instructions and instruction via instructions but what should we call the instructions that are sometimes a command and at other times an informational unit? Let's call them words because those too are sometimes commands and sometimes informational units.  Those are the units of storage in human memory and what is more the vehicles of communication and education.  Burkes called it a word for several reasons: he called it a word to explain it to a wider audience he already possessed the metaphor of the organ to describe the major components of the computing machine it also appears that there was talk of vocabularies in relation to these machines but the document trail suggests this term may postdate the term computer word. Did he call it a word because that is how human computers referred to the sequence of digits they could recall? Did he call it a word because it was a set of digits that could not be broken up? Did he call the word because he had written his dissertation on Peirce’s logic? My queries end up making it clear that the neologism itself, though noteworthy, is probably less important than the fate of the term.  It stuck.  It was adopted widely in industry and at research institutions.  Before the computer word there are information departments, gatherings of statistics, machine communication, calculators with memories.  But after its coinage, there are potentially literate machines.  This means that these machines can be taught to read and write.  These machines can begin processing human readable signs in non-human readable numeric translations.  In the most extreme interpretation, signification is itself turned into a communicative act.  Is this Peirce’s logic?  Not exactly, though certainly one interpretation of it. The mental representation of language becomes tied to communication with the machine.  So questions have to be asked regarding how human memory began to be compared to machine memory.  
+
+Here I descend into the Peirce archive.  It is hard to ever emerge from this.  He was an alcoholic and most likely a manic depressive.  We are so fascinated by the period in American History that it is hard to stop looking and making connections: Henry James, William James, Emerson.  His wife, Melusina Fay, his father, Benjamin, all American “royalty” and yet it is probably Peirce’s mental illness that makes him so hard to stop looking at.  Clarity and nominalism and Watley and rhetoric and the Lowell lectures and thinking that he and H. M. Bell were at and around Harvard around the same time is somehow not something that we usually think of.  Or that Charles W. Eliot, the president of Harvard and student of visible speech and involved with the creation of the college writing program did not like Peirce.  As a result, there was no position for Peirce at Harvard and he ended up at the Coastal Survey.  In the 1870s he is in NY/NJ and Abroad studying gravity and pendulums and translating at 13th c. manuscript on magnetism by Petrus Peregrinus and spending time with Henry James, whom he may or may not have been romantically involved with, in Paris.  And then there is the map of “Pendulum Station” Hoboken, published in 1879 and prepared in 1876 with these measuring and numbers and it is beautiful and fascinating and the report contains tables and tables and tables and figures.  
+
+
+When I say Engineered Language, I mean language that is no longer natural.  Like the difference between fresh corn and canned corn, or a fresh onion and dried onion powder.  Onion is a flavor.  The denaturalization of language has been happening for some time.  However, we have reached a point where verbal language has become so processed that natural language is actually a category of un-natural language.      
+
+If you scratch the surface of the histories of computings, literature is everywhere to be found.   In Babbage’s day dreams, in Shannon’s calculations, in Markov’s statistics, in Herman Goldstone’s middle name.  How could it not be?    
+
+Unlike the terms bits and bytes, the origins of which have been documented via the print record (bits dates from a January 9, 1947 Bell Labs Memo drafted by John W. Tukey and byte from a June 11, 1956 IBM memo drafted by Werner Bucholz), the term "computer word" has received much less attention in recent scholarship in the histories of computing(s) and in the digital humanities. In computer science, the "word" or "computer word" [a]is a data unit made up of a set number of bits and is hardware dependent[b].  Over the last several years, as part of my ongoing research into relationships  and dynamics amongst conceptions of verbal language, information processing, and the history of computational and communications technologies, I've been collecting information related to this question of when and where the term "computer word" arises.  One of the term’s earliest uses in print occurs in the 1946 report prepared by Arthur Burks, Herman Goldstine, and John von Neumann entitled "Preliminary Discussion of the Logical Design of an Electronic Computing Instrument."  As one of the “canonical” documents in the histories of computings, this report offers numerous insights into early conceptions of digital computing machines, their capabilities, and their functions.  Using a media archeological approach to better understand the reasons why Burks, who was the individual responsible for drafting the 1946 report, and whose wife, Alice, had worked as a human computer[c] at the Moore School, may have selected this term, I then consider the cultural reception of the term as a metaphor for the imagined capabilities of digital computers in the late 1940s and for their actual capabilities via the design of first generation programming languages.[d]  Arguing that the term “computer word” is a crucial one for better understanding how assumptions about the definitions and functions of alphabetic language and current traditional approaches to writing education are embedded in early digital computers[e], the paper engages with the work of John Cayley, Wendy Hui Kyong Chun, James W. Cortada, Michael S. Mahoney, Thomas J. Misa, David Nofre, and Mark Priestly to consider these issues.
+
+
+Embedded in computing systems are assumptions about verbal language, its definitions, and its functions.  But separating out the layers of sedimentation in the process of this embedding is not a trivial process.  Nor is agreeing on what it is one means when one says “verbal language.”  As a result, I will begin with some definitions.  I’m going to be dealing with two timelines in this paper: the first has to do with HW and the second with “SW,” by which I mean how verbal language is defined.  The HW timeline is based on application and can be divided by period; the SW timeline can be also.  However, this timeline is more difficult to study in periods because the “technologies” we are dealing with are social, not material.
+
+Gitelman’s notion of the “climate of representation” in the 19th c. U.S. takes on new urgency when one considers how much of what was happening in the 19th c. ends up impacting “climate change” in the 21st c. 
+
+I’m going to call it the long 19th c. as opposed to the long 20th c., because I want to emphasize how much all of this begins in the 17th c.  
+
+
+As Winograd has written, Embedded in computing systems are rationalist assumptions about the functions of verbal language.  Context free grammar/
+
+
+In computer science, the "word" or "computer word" is a data unit made up of a set number of bytes (a bit is a 0 or 1; a byte is a collection of bits, usually, though not always, 8; a word is the next largest data unit.  I've been collecting information related to this question of when and where the term "word" or “computer word” arises and I believe I have finally located one early source.  It is in a 1946 report prepared by Arthur Burks, Herman Goldstine, and John von Neumann entitled "Preliminary Discussion of the Logical Design of an Electronic Computing Instrument."  This is a very important document in the history of computing generally, and one that is absolutely fascinating in the history of the definitions and conceptions of language in computing (at this point in time, graphic verbal language; later in time, other types of symbols used in communication, i.e., images and sounds) for many reasons, at least one of which is the fact that Burks wrote his dissertation on the logical foundations of the philosophy of C. S. Peirce.  He was also married to Alice Rowe Burks, a woman who worked as a human computer at the Moore School in Philadelphia and she may have had something to do with Burks' word choice here. Thinking about Peirce's definition of the term "word" and Burks' later decision to use this term as a unit is something I hope to do in the future.  For now, I have my hands full just analyzing what is written in this document in which, the three authors write:
+
+
+“3.7 We proceed now to a more detailed discussion of the machine.  Inasmuch as our experience has shown that the moment one chooses a given component as the elementary memory unit one has also more or less determined upon much of the balance of the machine, we start by a consideration of the memory organ.  In attempting an exposition of a highly integrated device like a computing machine we do not find it possible, however, to give an exhaustive discussion of each organ before completing its description.  It is only in the final block diagrams that anything approaching a complete unity is achieved.(7)  
+
+
+“4.0  The Memory Organ
+4.1  Ideally, we would desire an indefinitely large memory capacity such that any particular 40 binary digit number or word would be immediately, i.e., in the order of 1 to 100 milliseconds, available and that words could be replaced with new words at about the same rate.”  (7; authors' emphasis)
+
+
+It is here on page 7 of this report that the term and concept of the "computer word" is introduced.  Why did Burks, et al., choose this term?  Is there documentary evidence to explain this word choice?  It seems I would need to spend some time in the IAS archives at Princeton and at the Burks' archives at IUPUI to answer that question. But even without a physical visit to the archives, it is possible to put together some hypotheses.  
+
+
+Here are a few interesting things about this passage and the date of this report:  First, the term "word" predates both the term bit and the term byte, which intuitively makes sense, particularly when you consider that in the mid-1940s all "computers" were humans and verbal language as a quantifiable entity had been being studied in communications research and by the military (cryptography) since the late 19th c..  However, I don't think this is well understood and I, of course (!), think the implications are quite significant in terms of how this data unit called a "word" relates to other definitions of the term word at the time.  I believe and hope to show that this term places a numeric bound around verbal language.  It turns verbal language into a computational problem.  It also, both conceptually and even possibly literally, places acts of reading and writing "words" at the center of data processing.  Considering how this report may have contributed to Shannon's 1948 article "A Mathematical Theory of Communication" is also intriguing.  Reading the later article in light of this report may help us understand something about how Shannon was thinking about verbal language.  (I will write about this issue in an article I have not yet written entitled "Shannon's Bibliography").  Second, the use of the term "organ" to refer to the memory components is pretty fascinating [It seems this term originates earlier and is used by V. Bush in his 1945 “As We May Think” and may have been used by him even earler].  Again, this word choice probably relates to the fact that at the time there were human computers.  Nevertheless, that the personification of computing machines begins this early is also noteworthy.  
+
+
+Here’s what we know: the term “computer word” stuck.  It can be traced throughout the technical literature after 1946 and continues to be used today.  I’m interested in this because in what we now call the “early history of digital computing,” computer models are based on models of the human.  This process continues into the 1950s/60s/70s with models of human psychology, emotions, brain functions being applied.  
+
+
+
+
+It is no mere coincidence that models of the writing subject and models of digital computing machines are identical.  
+
+
+If you compare models of the writing subject with models of digital computing systems, you find some startling similarities.  This is no coincidence.  Digital computers were designed on the basis of human computer models; they were also taught to read and write based on models of human educational processes. What is noteworthy is that even before the machines are taught to read and write, humans were defined as machines for writing. This means that post-WW2, the U.S. government had a choice: to continue with full employment of mechanical humans or transition to a digital economy.  
+
+
+In 1946, the computer word is not yet a data unit, meaning it speaks and communicates between different hardware systems.  It is a storage unit in memory.  (http://www.the-crossword-solver.com/word/computer+data+unit) Margaret Rouse, 2005 definition: https://whatis.techtarget.com/definition/word
+
+
+
+
+Just when and how did verbal language become a computational problem?  In 1450 with the widespread adoption of moveable type? In 1588 with Timothie Bright’s Characterie, the first printed volume of English shorthand?  In 1604, when what some consider the “first” printed English dictionary is published?  In 1677 with the publication of John Peter’s pamphlet? In 1873 with the publication of the first word diamond (St. Nicholas magazine)?  In 1913 with the publication of the first crossword puzzle?  In 1925 with the publication of Ogden’s “Basic English” word list?  In 1931 with the invention of what would come to be called Scrabble?  [f]
+
+
+That the early histories of computation stretch well back into the 19th c. has been clearly established by many historians of computation and media studies (James Cortada (Before the Computer); Haigh; Gitleman).  However just how far back into the histories of print one should look for their[g] “origins” and just how important print technologies themselves are to the histories of digital computings remain topics to be explored. There is a growing body of work focused on the book itself as instrument, which I hope to contribute to and extend by shedding light on the roles of printing technologies in the manufacturing of computer hardware, in particular silicon chips containing printed circuits.  But that is a different project.  
+
+
+Today, I want to talk about Hartley’s 1928 article in which he proposes an equation for calculating information (really?  I thought you were talking about the Burks paper?????  I am, but I also want to talk about the Hartley article...the only question is whether I will do so here or in the “Shannon’s Bibliography” article.)
+
+
+What I am looking for are answers.  How did we get to a place where verbal communication became a fixed sum game in which one’s options for expressing oneself are a set of calculations?
+
+
+He called it a word to explain it to a wider audience.  He already possessed the metaphor of the organ to describe the major components of a computing machine.  It also appears that there was talk of vocabularies in relation to these machines though I have not yet found the document trail for that term.  Did he call it a word because that is how human computers referred to the sequence of digits they could recall?  Did he call it a word because it was a set of digits that could not be broken up? Did he call it a word because he had written his dissertation on Peirce’s logic?  My obsessive queries end up making it clear that the neologism itself may be less important than its fate.  It stuck.  It was adopted widely in industry and academic research initiatives.  
+
+
+Before Technology Became Language, Language Became Technology
+
+
+
+
+In computer science, bits have a set definition and refer to one of two states, zero and one.  Bytes, though we tend now to think of them in sets of eight, do not have a standard definition.
+
+
+While it is generally common knowledge that bits and bytes have something to do with the operations of a computing device, it is less well known that information processing also involves the use of computer words.  there are also words.  Of the many competing definitions of the word “word,” one that literary critics may not talk about enough is what is known as “the computer word.”  The etymology of this term may help us understand some things about the current state of written language, which I am increasingly understanding as part of a larger media economy.  There is no set definition of this term “computer word” and it is, unlike bits and bytes, hardware relative.  Also unlike the terms bits and bytes, the histories of this term are not well documented.  
+
+
+Like many words that we use on a daily basis, the word word has several different meanings, but what is more surprising still is that even in linguistics, the discipline dedicated to studying language and its operations, the word word is difficult to define.  For, as Heidi Harley explains in her 2004 essay, “What Is a Word?”, “a word has different properties [and different definitions] depending on whether you're looking at it phonologically, morphologically, syntactically or semantically.”  In other words, the definition of the word word will vary depending on whether you are defining it as a series of sounds (phonologically), as a series of morphemes, as a functional unit in a phrase or sentence, or as a sign assigned one or more meanings. 
+
+
+
+
+Some Quotes
+
+
+Alan Turing: “The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.” (Turing, 1950, “Computer Machinery and Intelligence”)
+
+
+Heim wrote his 1987 book using the word processor Framework.  
+
+
+Heim references Veatch book on p. 83 of his book: 
+Two Logics: The Conflict Between Classical and Neo-analytic Philosophy
+Henry Babcock Veatch
+Northwestern University Press, 1969
+Heim: “Logic is the foundation of the systematic thinking which can become the basis for a homogeneous world language.  But the logic meant here is not the traditional Aristotelian logic which organizes and evaluates inferences occurreing in natural language.  Rather, logic in the modern sense is a network of symbols equally applicable to electronic switching-circuitry as to assertions made in natural language; logic, in the modern sense can become an underlying digital language to be used for the transmission and communication of natural language.  Just as geomatrical axioms are no longer bound to the domain of real circles (physical figures) but are operable with contrary postulates, so too modern logic is free of any naturally given syntax. 
+[note refers reader to Veatch’s 1969 book]
+
+
+
+
+
+
+“Seen in historical perspective, the events of the decade of the 1940s mark the close of the early history of the computer.  This close is marked by a special type of convergence that produced what I shall call an invention of strategic importance, namely, the high-speed general-purpose electronic digital computer, of which several examples were being built by 1950.  The special type of convergence involved the contributions of mathematicians, radar engineers, telephone engineers, physicists, industrial manufacturers, institutions of higher education, the Department of Defense, the National Security Council, and the outpouring of millions of dollars by an informed but unsuspecting Congress.  This special type of convergence brought together the conceptual traditions of mathematics, electronic physics and engineering, practical politics, fiscal policy, the logics of analogue and digital computation, and the complex empirical philosophies of government-industry-higher education relationships.  The new tradition being generated by this amalgam is still without a name.  Automation is one of the products, cybernation another, systems engineering still another, but none of these is what I have in mind, for each is too small, too specialized, too fragmental.”  {Thomas M. Smith, “Some Perspectives on the Early History of Computers” 1970 written as an Introduction to a 1970 collection of essays entitled Perspectives on the Computer Revolution, edited by edited by Zenon W. Pylyshyn and  Liam Bannon
+ (12))
+
+
+
+
+
+
+ 
+[a]I think this is a brilliant entry point for your project... we may have to return to Saussure/Wittgenstein, or at least I may have to—something there that my mind is too sluggish to articulate re/delimiting language with language...
+[b]how so?
+[c]define?
+[d]want to know more about why this distinction is important
+[e]I would like to better understand the stakes here...
+[f]haha!
+[g]refers to?
